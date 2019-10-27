@@ -3,7 +3,7 @@
 <channel>
     <title>TV+</title>
     <description></description>
-    <stream_url><![CDATA[http://iptv.denms.ru/?tvplus-tvh&ser82&18021957]]></stream_url>
+    <stream_url><![CDATA[http://iptv.denms.ru/?tvplus-tvh&ser82&18021957?.m3u]]></stream_url>
 </channel>
 </items>
 
