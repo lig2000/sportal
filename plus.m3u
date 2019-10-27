@@ -1,3 +1,50 @@
-#EXTM3U
-#EXTINF:-1,TV+
-http://iptv.denms.ru/?tvplus-tvh&ser82&18021957
+#EXTINF:-1 tvg-id="karusel" group-title="Детские",Карусель
+https://live-hls-tvplusonline.cdnvideo.ru/karusel/index.m3u8?md5=3rXBL0FKrTEu5gjH49KpKg&e=1572238312
+#EXTINF:-1 tvg-id="skazki-zayki" group-title="Детские",Сказки Зайки
+https://live-hls-tvplusonline.cdnvideo.ru/skazki/index.m3u8?md5=0PdT2nxW4E78dUMxVCwbMA&e=1572238312
+#EXTINF:-1 tvg-id="sovmultf" group-title="Детские",Советские мультфильмы
+https://live-hls-tvplusonline.cdnvideo.ru/rusmult/index.m3u8?md5=SurCOypBrWFSTuTDxDaBZw&e=1572238312
+#EXTINF:-1 tvg-id="europa-plus-tv" group-title="Музыка",Europa Plus TV
+https://live-hls-tvplusonline.cdnvideo.ru/europaplustv/index.m3u8?md5=QgFMIi65X7bAOivb1xcO5A&e=1572238313
+#EXTINF:-1 tvg-id="russia-today" group-title="Новости",Russia Today
+https://live-hls-tvplusonline.cdnvideo.ru/rt/index.m3u8?md5=fWq1cKpIVVbRSfcZ1TemwQ&e=1572238313
+#EXTINF:-1 group-title="Новости",ПРО БИЗНЕС
+https://live-hls-tvplusonline.cdnvideo.ru/probusiness/index.m3u8?md5=VkeCkPPHidZEWpk-7iTKKA&e=1572238313
+#EXTINF:-1 tvg-id="joy-cook" group-title="Познавательные",Joy Cook
+https://live-hls-tvplusonline.cdnvideo.ru/joycook/index.m3u8?md5=McxGGx2EY8nWX4EK7d8DcQ&e=1572238314
+#EXTINF:-1 tvg-id="rtd-hd" group-title="Познавательные",RTД HD
+https://live-hls-tvplusonline.cdnvideo.ru/rtdocru/index.m3u8?md5=5Eq16u3o37PQh6BIyyoWsA&e=1572238314
+#EXTINF:-1 tvg-id="neizvestnaya-planeta" group-title="Познавательные",Неизвестная Планета
+https://live-hls-tvplusonline.cdnvideo.ru/unknownplanet/index.m3u8?md5=paQLkTYjTCe88XwMeOcr7w&e=1572238314
+#EXTINF:-1 group-title="Познавательные",Терра Инкогнита
+https://live-hls-tvplusonline.cdnvideo.ru/terra/index.m3u8?md5=WNJkOfHQrpJwNG-KcUF8Dw&e=1572238315
+#EXTINF:-1 tvg-id="tochka-tv" group-title="Познавательные",Точка ТВ
+https://live-hls-tvplusonline.cdnvideo.ru/tochkatv/index.m3u8?md5=-QESOKHM4i8wfYU3PIHcSw&e=1572238315
+#EXTINF:-1 tvg-id="2na2" group-title="Развлекательные",2x2
+https://live-hls-tvplusonline.cdnvideo.ru/t2x2/index.m3u8?md5=2f78HqavZfXtKWJtqO1ong&e=1572238315
+#EXTINF:-1 tvg-id="super" group-title="Развлекательные",Супер
+https://live-hls-tvplusonline.cdnvideo.ru/super/index.m3u8?md5=K7dHP6L8PLbkWHHr-om7uw&e=1572238316
+#EXTINF:-1 tvg-id="tnt4" group-title="Развлекательные",ТНТ4
+https://live-hls-tvplusonline.cdnvideo.ru/tnt4/index.m3u8?md5=QIwqxXX4BpMBjTPYAKb_5A&e=1572238316
+#EXTINF:-1 tvg-id="bashkortostan24" group-title="Региональные",Башкортостан 24
+https://live-hls-tvplusonline.cdnvideo.ru/bash24/index.m3u8?md5=USE09JcVaYcVOzk8u2eNlw&e=1572238316
+#EXTINF:-1 tvg-id="radost-moya" group-title="Религия",Радость моя
+https://live-hls-tvplusonline.cdnvideo.ru/radost/index.m3u8?md5=fHoIEx21IvLqpiNIB_sIIQ&e=1572238317
+#EXTINF:-1 tvg-id="m1global" group-title="Спорт",M-1 Global
+https://live-hls-tvplusonline.cdnvideo.ru/m1global/index.m3u8?md5=LEZSj7zpmlZ5eNAhHk9Y2Q&e=1572238317
+#EXTINF:-1 tvg-id="box-tv" group-title="Спорт",Бокс ТВ
+https://live-hls-tvplusonline.cdnvideo.ru/boxtv/index.m3u8?md5=Ruh43DWzN8FCgaXr3K_fFQ&e=1572238317
+#EXTINF:-1 tvg-id="match-tv" group-title="Спорт",Матч!
+https://live-hls-tvplusonline.cdnvideo.ru/matchtv/index.m3u8?md5=CojWihYIyimHvi7xIZXHsQ&e=1572238318
+#EXTINF:-1 tvg-id="match-tv" group-title="Спорт",Матч! HD
+https://live-hls-tvplusonline.cdnvideo.ru/matchtvhd/index.m3u8?md5=1zzKqy8m3aQGrJQzwDOMiw&e=1572238318
+#EXTINF:-1 tvg-id="match-arena" group-title="Спорт",Матч! Арена
+https://live-hls-tvplusonline.cdnvideo.ru/matcharena/index.m3u8?md5=zxAcErg3EC11SWEo7-HPjw&e=1572238318
+#EXTINF:-1 tvg-id="match-arena" group-title="Спорт",Матч! Арена HD
+https://live-hls-tvplusonline.cdnvideo.ru/matcharenahd/index.m3u8?md5=ZXLYzq8olZ3Vnl4Enl1LBg&e=1572238319
+#EXTINF:-1 tvg-id="match-boets" group-title="Спорт",Матч! Боец
+https://live-hls-tvplusonline.cdnvideo.ru/matchfighter/index.m3u8?md5=G8Cr9diTYoUXoSAxI-qmtA&e=1572238319
+#EXTINF:-1 tvg-id="match-igra" group-title="Спорт",Матч! Игра
+https://live-hls-tvplusonline.cdnvideo.ru/matchgame/index.m3u8?md5=t1FI38fZqdW6B1IMIHwmcQ&e=1572238319
+#EXTINF:-1 tvg-id="match-igra" group-title="Спорт",Матч! Игра HD
+https://live-hls-tvplusonline.cdnvideo.ru/matchgamehd/index.m3u8?md5=XKW_Dy-23wK-bs1hNNSg6w&e=1572238320
