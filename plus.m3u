@@ -1,175 +1,115 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="karusel" group-title="Детские",Карусель
-http://live-hls-tvplusonline.cdnvideo.ru/karusel/index.m3u8?md5=bMX3IZIc7NkMoWDXmL7GjA&e=1573016413
+https://live-hls-tvplusonline.cdnvideo.ru/karusel/index.m3u8?md5=bMX3IZIc7NkMoWDXmL7GjA&e=1573016413
 #EXTINF:-1 tvg-id="skazki-zayki" group-title="Детские",Сказки Зайки
-http://live-hls-tvplusonline.cdnvideo.ru/skazki/index.m3u8?md5=SVU8HBaaOWVb-C5lZZVRfg&e=1573016413
+https://live-hls-tvplusonline.cdnvideo.ru/skazki/index.m3u8?md5=SVU8HBaaOWVb-C5lZZVRfg&e=1573016413
 #EXTINF:-1 tvg-id="sovmultf" group-title="Детские",Советские мультфильмы
-http://live-hls-tvplusonline.cdnvideo.ru/rusmult/index.m3u8?md5=FErifvMel2I8yXgWk1SJVg&e=1573016413
+https://live-hls-tvplusonline.cdnvideo.ru/rusmult/index.m3u8?md5=FErifvMel2I8yXgWk1SJVg&e=1573016413
 #EXTINF:-1 tvg-id="europa-plus-tv" group-title="Музыка",Europa Plus TV
-http://live-hls-tvplusonline.cdnvideo.ru/europaplustv/index.m3u8?md5=FPSlVrzRpZc7wEnWWetwTw&e=1573016414
+https://live-hls-tvplusonline.cdnvideo.ru/europaplustv/index.m3u8?md5=FPSlVrzRpZc7wEnWWetwTw&e=1573016414
 #EXTINF:-1 tvg-id="russia-today" group-title="Новости",Russia Today
-http://live-hls-tvplusonline.cdnvideo.ru/rt/index.m3u8?md5=C662f0ojXJN-QvkWY3uJ4A&e=1573016414
+https://live-hls-tvplusonline.cdnvideo.ru/rt/index.m3u8?md5=C662f0ojXJN-QvkWY3uJ4A&e=1573016414
 #EXTINF:-1 group-title="Новости",ПРО БИЗНЕС
-http://live-hls-tvplusonline.cdnvideo.ru/probusiness/index.m3u8?md5=WZAvtbllaBi0_1ncSVaClw&e=1573016414
+https://live-hls-tvplusonline.cdnvideo.ru/probusiness/index.m3u8?md5=WZAvtbllaBi0_1ncSVaClw&e=1573016414
 #EXTINF:-1 tvg-id="joy-cook" group-title="Познавательные",Joy Cook
-http://live-hls-tvplusonline.cdnvideo.ru/joycook/index.m3u8?md5=RzHCRNEmq_TGhff_OLYsaA&e=1573016415
+https://live-hls-tvplusonline.cdnvideo.ru/joycook/index.m3u8?md5=RzHCRNEmq_TGhff_OLYsaA&e=1573016415
 #EXTINF:-1 tvg-id="rtd-hd" group-title="Познавательные",RTД HD
-http://live-hls-tvplusonline.cdnvideo.ru/rtdocru/index.m3u8?md5=1WmVTkiRi9GweNBz_v8gKQ&e=1573016415
+https://live-hls-tvplusonline.cdnvideo.ru/rtdocru/index.m3u8?md5=1WmVTkiRi9GweNBz_v8gKQ&e=1573016415
 #EXTINF:-1 tvg-id="neizvestnaya-planeta" group-title="Познавательные",Неизвестная Планета
-http://live-hls-tvplusonline.cdnvideo.ru/unknownplanet/index.m3u8?md5=tvOLTh6KeLWCBS2-M3R1tQ&e=1573016415
+https://live-hls-tvplusonline.cdnvideo.ru/unknownplanet/index.m3u8?md5=tvOLTh6KeLWCBS2-M3R1tQ&e=1573016415
 #EXTINF:-1 group-title="Познавательные",Терра Инкогнита
-http://live-hls-tvplusonline.cdnvideo.ru/terra/index.m3u8?md5=xQG7nCjVpvTdV4AVTyQ93A&e=1573016416
+https://live-hls-tvplusonline.cdnvideo.ru/terra/index.m3u8?md5=xQG7nCjVpvTdV4AVTyQ93A&e=1573016416
 #EXTINF:-1 tvg-id="tochka-tv" group-title="Познавательные",Точка ТВ
-http://live-hls-tvplusonline.cdnvideo.ru/tochkatv/index.m3u8?md5=br258HkcDD6xO4A5aJc2hw&e=1573016416
+https://live-hls-tvplusonline.cdnvideo.ru/tochkatv/index.m3u8?md5=br258HkcDD6xO4A5aJc2hw&e=1573016416
 #EXTINF:-1 tvg-id="2na2" group-title="Развлекательные",2x2
-http://live-hls-tvplusonline.cdnvideo.ru/t2x2/index.m3u8?md5=6vDVIOnqLm30PtcvLDktwQ&e=1573016416
+https://live-hls-tvplusonline.cdnvideo.ru/t2x2/index.m3u8?md5=6vDVIOnqLm30PtcvLDktwQ&e=1573016416
 #EXTINF:-1 tvg-id="super" group-title="Развлекательные",Супер
-http://live-hls-tvplusonline.cdnvideo.ru/super/index.m3u8?md5=9wAkU6p2LoBlIG6zmYgm5g&e=1573016417
+https://live-hls-tvplusonline.cdnvideo.ru/super/index.m3u8?md5=9wAkU6p2LoBlIG6zmYgm5g&e=1573016417
 #EXTINF:-1 tvg-id="tnt4" group-title="Развлекательные",ТНТ4
-http://live-hls-tvplusonline.cdnvideo.ru/tnt4/index.m3u8?md5=oxwwGA2g0PkHu5pYDmXzmw&e=1573016417
+https://live-hls-tvplusonline.cdnvideo.ru/tnt4/index.m3u8?md5=oxwwGA2g0PkHu5pYDmXzmw&e=1573016417
 #EXTINF:-1 tvg-id="bashkortostan24" group-title="Региональные",Башкортостан 24
-http://live-hls-tvplusonline.cdnvideo.ru/bash24/index.m3u8?md5=o90HJc2CyiNBAmxkxuX2_g&e=1573016418
+https://live-hls-tvplusonline.cdnvideo.ru/bash24/index.m3u8?md5=o90HJc2CyiNBAmxkxuX2_g&e=1573016418
 #EXTINF:-1 tvg-id="radost-moya" group-title="Религия",Радость моя
-http://live-hls-tvplusonline.cdnvideo.ru/radost/index.m3u8?md5=mg8rc270oseS6Fqishvepw&e=1573016418
+https://live-hls-tvplusonline.cdnvideo.ru/radost/index.m3u8?md5=mg8rc270oseS6Fqishvepw&e=1573016418
 #EXTINF:-1 tvg-id="m1global" group-title="Спорт",M-1 Global
-http://live-hls-tvplusonline.cdnvideo.ru/m1global/index.m3u8?md5=rUEnUoo4gc73b8Z27pha6Q&e=1573016418
+https://live-hls-tvplusonline.cdnvideo.ru/m1global/index.m3u8?md5=rUEnUoo4gc73b8Z27pha6Q&e=1573016418
 #EXTINF:-1 tvg-id="box-tv" group-title="Спорт",Бокс ТВ
-http://live-hls-tvplusonline.cdnvideo.ru/boxtv/index.m3u8?md5=BZWzG2SvJIztrs0tKrQ7QQ&e=1573016419
+https://live-hls-tvplusonline.cdnvideo.ru/boxtv/index.m3u8?md5=BZWzG2SvJIztrs0tKrQ7QQ&e=1573016419
 #EXTINF:-1 tvg-id="match-tv" group-title="Спорт",Матч!
-http://live-hls-tvplusonline.cdnvideo.ru/matchtv/index.m3u8?md5=eu4xRLK8hilCoZuiwsBz6Q&e=1573016419
+https://live-hls-tvplusonline.cdnvideo.ru/matchtv/index.m3u8?md5=eu4xRLK8hilCoZuiwsBz6Q&e=1573016419
 #EXTINF:-1 tvg-id="match-tv" group-title="Спорт",Матч! HD
-http://live-hls-tvplusonline.cdnvideo.ru/matchtvhd/index.m3u8?md5=kec-_ImUrSpyntLoMQuyvA&e=1573016419
+https://live-hls-tvplusonline.cdnvideo.ru/matchtvhd/index.m3u8?md5=kec-_ImUrSpyntLoMQuyvA&e=1573016419
 #EXTINF:-1 tvg-id="match-arena" group-title="Спорт",Матч! Арена
-http://live-hls-tvplusonline.cdnvideo.ru/matcharena/index.m3u8?md5=wipRwjJAY2FMlaEOkogqdw&e=1573016419
+https://live-hls-tvplusonline.cdnvideo.ru/matcharena/index.m3u8?md5=wipRwjJAY2FMlaEOkogqdw&e=1573016419
 #EXTINF:-1 tvg-id="match-arena" group-title="Спорт",Матч! Арена HD
-http://live-hls-tvplusonline.cdnvideo.ru/matcharenahd/index.m3u8?md5=ZTUD2-obd_oWnS1qLsNwTA&e=1573016420
+https://live-hls-tvplusonline.cdnvideo.ru/matcharenahd/index.m3u8?md5=ZTUD2-obd_oWnS1qLsNwTA&e=1573016420
 #EXTINF:-1 tvg-id="match-boets" group-title="Спорт",Матч! Боец
-http://live-hls-tvplusonline.cdnvideo.ru/matchfighter/index.m3u8?md5=kxJt3kE7mFV2iksh88T80w&e=1573016420
+https://live-hls-tvplusonline.cdnvideo.ru/matchfighter/index.m3u8?md5=kxJt3kE7mFV2iksh88T80w&e=1573016420
 #EXTINF:-1 tvg-id="match-igra" group-title="Спорт",Матч! Игра
-http://live-hls-tvplusonline.cdnvideo.ru/matchgame/index.m3u8?md5=Lo1qclhKHcEar9-nErxuvA&e=1573016420
+https://live-hls-tvplusonline.cdnvideo.ru/matchgame/index.m3u8?md5=Lo1qclhKHcEar9-nErxuvA&e=1573016420
 #EXTINF:-1 tvg-id="match-igra" group-title="Спорт",Матч! Игра HD
-http://live-hls-tvplusonline.cdnvideo.ru/matchgamehd/index.m3u8?md5=o9YQgt0Um2u6mVKrjQ2E5A&e=1573016421
+https://live-hls-tvplusonline.cdnvideo.ru/matchgamehd/index.m3u8?md5=o9YQgt0Um2u6mVKrjQ2E5A&e=1573016421
 #EXTINF:-1 tvg-id="match-premier" group-title="Спорт",Матч! Премьер
-http://live-hls-tvplusonline.cdnvideo.ru/matchpremier/index.m3u8?md5=P3D2Z_C5Brth7o3V7xoEyA&e=1573016421
+https://live-hls-tvplusonline.cdnvideo.ru/matchpremier/index.m3u8?md5=P3D2Z_C5Brth7o3V7xoEyA&e=1573016421
 #EXTINF:-1 tvg-id="match-premier" group-title="Спорт",Матч! Премьер HD
-http://live-hls-tvplusonline.cdnvideo.ru/matchpremierhd/index.m3u8?md5=YlJhJTJs7EKb6Wd39L5bhw&e=1573016421
+https://live-hls-tvplusonline.cdnvideo.ru/matchpremierhd/index.m3u8?md5=YlJhJTJs7EKb6Wd39L5bhw&e=1573016421
 #EXTINF:-1 tvg-id="match-nash-sport" group-title="Спорт",Матч! Страна
-http://live-hls-tvplusonline.cdnvideo.ru/matchoursport/index.m3u8?md5=FXKVFkSYeXcXQvsDQwA2ng&e=1573016422
+https://live-hls-tvplusonline.cdnvideo.ru/matchoursport/index.m3u8?md5=FXKVFkSYeXcXQvsDQwA2ng&e=1573016422
 #EXTINF:-1 tvg-id="match-football1" group-title="Спорт",Матч! Футбол 1
-http://live-hls-tvplusonline.cdnvideo.ru/matchfootball1/index.m3u8?md5=VpkDIVAPnwlx07yGG_mFGg&e=1573016422
+https://live-hls-tvplusonline.cdnvideo.ru/matchfootball1/index.m3u8?md5=VpkDIVAPnwlx07yGG_mFGg&e=1573016422
 #EXTINF:-1 tvg-id="match-football1" group-title="Спорт",Матч! Футбол 1 HD
-http://live-hls-tvplusonline.cdnvideo.ru/matchfootball1hd/index.m3u8?md5=piqZoBLuGlS2Wp4j4zyH9w&e=1573016422
+https://live-hls-tvplusonline.cdnvideo.ru/matchfootball1hd/index.m3u8?md5=piqZoBLuGlS2Wp4j4zyH9w&e=1573016422
 #EXTINF:-1 tvg-id="match-football2" group-title="Спорт",Матч! Футбол 2
-http://live-hls-tvplusonline.cdnvideo.ru/matchfootball2/index.m3u8?md5=vRebZGuZGdKU6z5lGV0a2A&e=1573016423
+https://live-hls-tvplusonline.cdnvideo.ru/matchfootball2/index.m3u8?md5=vRebZGuZGdKU6z5lGV0a2A&e=1573016423
 #EXTINF:-1 tvg-id="match-football2" group-title="Спорт",Матч! Футбол 2 HD
-http://live-hls-tvplusonline.cdnvideo.ru/matchfootball2hd/index.m3u8?md5=oy45ISxS-iLUcF0B5Sbslg&e=1573016423
+https://live-hls-tvplusonline.cdnvideo.ru/matchfootball2hd/index.m3u8?md5=oy45ISxS-iLUcF0B5Sbslg&e=1573016423
 #EXTINF:-1 tvg-id="match-football3" group-title="Спорт",Матч! Футбол 3
-http://live-hls-tvplusonline.cdnvideo.ru/matchfootball3/index.m3u8?md5=r06JGZsUbJQmv6LjQSrtjA&e=1573016423
+https://live-hls-tvplusonline.cdnvideo.ru/matchfootball3/index.m3u8?md5=r06JGZsUbJQmv6LjQSrtjA&e=1573016423
 #EXTINF:-1 tvg-id="match-football3" group-title="Спорт",Матч! Футбол 3 HD
-http://live-hls-tvplusonline.cdnvideo.ru/matchfootball3hd/index.m3u8?md5=WXvxRnw3lUeGoOvP29AlCQ&e=1573016424
+https://live-hls-tvplusonline.cdnvideo.ru/matchfootball3hd/index.m3u8?md5=WXvxRnw3lUeGoOvP29AlCQ&e=1573016424
 #EXTINF:-1 tvg-id="domashny" group-title="Федеральные",Домашний
-http://live-hls-tvplusonline.cdnvideo.ru/dom/index.m3u8?md5=9ZKQ4VZBK8HI1NFgMAyKgA&e=1573016424
+https://live-hls-tvplusonline.cdnvideo.ru/dom/index.m3u8?md5=9ZKQ4VZBK8HI1NFgMAyKgA&e=1573016424
 #EXTINF:-1 tvg-id="zvezda" group-title="Федеральные",Звезда
-http://live-hls-tvplusonline.cdnvideo.ru/zvezda/index.m3u8?md5=jHdiIGY1-yq6Awul27V-2A&e=1573016424
+https://live-hls-tvplusonline.cdnvideo.ru/zvezda/index.m3u8?md5=jHdiIGY1-yq6Awul27V-2A&e=1573016424
 #EXTINF:-1 tvg-id="muztv" group-title="Федеральные",Муз ТВ
-http://live-tvplusonline-muztv.cdnvideo.ru/muztvstream/muztv.576p/playlist.m3u8?md5=vH65rrcjoktc2HYYdf-PKQ&e=1573016425
+https://live-tvplusonline-muztv.cdnvideo.ru/muztvstream/muztv.576p/playlist.m3u8?md5=vH65rrcjoktc2HYYdf-PKQ&e=1573016425
 #EXTINF:-1 tvg-id="ntv" group-title="Федеральные",НТВ
-http://live-hls-tvplusonline.cdnvideo.ru/ntv/index.m3u8?md5=T84Z8Hda2nldw_6dZm7eAw&e=1573016425
+https://live-hls-tvplusonline.cdnvideo.ru/ntv/index.m3u8?md5=T84Z8Hda2nldw_6dZm7eAw&e=1573016425
 #EXTINF:-1 tvg-id="pervy" group-title="Федеральные",Первый канал
-http://plmgr-tvplusonline.cdnvideo.ru/1tvstream/playlist.m3u8?md5=5c5__4D4WOyuxPcLgRMPkA&e=1573016425
+https://plmgr-tvplusonline.cdnvideo.ru/1tvstream/playlist.m3u8?md5=5c5__4D4WOyuxPcLgRMPkA&e=1573016425
 #EXTINF:-1 tvg-id="pervy" group-title="Федеральные",Первый канал HD
-http://plmgr-tvplusonline.cdnvideo.ru/1tvstream/1tv.720p/playlist.m3u8?md5=_x35_0EyM-Vb4GAVSYoEJw&e=1573016426
+https://plmgr-tvplusonline.cdnvideo.ru/1tvstream/1tv.720p/playlist.m3u8?md5=_x35_0EyM-Vb4GAVSYoEJw&e=1573016426
 #EXTINF:-1 tvg-id="piatnica" group-title="Федеральные",Пятница
-http://live-hls-tvplusonline.cdnvideo.ru/friday/index.m3u8?md5=AOug9FzAIcPo5k8GfgoanA&e=1573016426
+https://live-hls-tvplusonline.cdnvideo.ru/friday/index.m3u8?md5=AOug9FzAIcPo5k8GfgoanA&e=1573016426
 #EXTINF:-1 tvg-id="5kanal-ru" group-title="Федеральные",Пятый канал
-http://live-hls-tvplusonline.cdnvideo.ru/kanal5/index.m3u8?md5=OJQYL8IfiqtopVMPH9X-kg&e=1573016426
+https://live-hls-tvplusonline.cdnvideo.ru/kanal5/index.m3u8?md5=OJQYL8IfiqtopVMPH9X-kg&e=1573016426
 #EXTINF:-1 tvg-id="rentv" group-title="Федеральные",Рен Тв
-http://live-hls-tvplusonline.cdnvideo.ru/ren/index.m3u8?md5=pOtKV-oK7XUBOZ8L-ruyrw&e=1573016427
+https://live-hls-tvplusonline.cdnvideo.ru/ren/index.m3u8?md5=pOtKV-oK7XUBOZ8L-ruyrw&e=1573016427
 #EXTINF:-1 tvg-id="rossia1" group-title="Федеральные",Россия 1
-http://live-hls-tvplusonline.cdnvideo.ru/russia/index.m3u8?md5=pSY3cclOuycmouPHU9falw&e=1573016427
+https://live-hls-tvplusonline.cdnvideo.ru/russia/index.m3u8?md5=pSY3cclOuycmouPHU9falw&e=1573016427
 #EXTINF:-1 tvg-id="rossia1" group-title="Федеральные",Россия 1 HD
-http://live-hls-tvplusonline.cdnvideo.ru/russiahd/index.m3u8?md5=Gjw1i0-Rg0FyExGiHm1DyQ&e=1573016427
+https://live-hls-tvplusonline.cdnvideo.ru/russiahd/index.m3u8?md5=Gjw1i0-Rg0FyExGiHm1DyQ&e=1573016427
 #EXTINF:-1 tvg-id="rossia-24" group-title="Федеральные",Россия 24
-http://live-hls-tvplusonline.cdnvideo.ru/russia24/index.m3u8?md5=Mvj4ECrACFKpaDJW99g29Q&e=1573016428
+https://live-hls-tvplusonline.cdnvideo.ru/russia24/index.m3u8?md5=Mvj4ECrACFKpaDJW99g29Q&e=1573016428
 #EXTINF:-1 tvg-id="sts" group-title="Федеральные",СТС
-http://live-hls-tvplusonline.cdnvideo.ru/sts/index.m3u8?md5=aCZqfmE6Il74Eo-qyfMxQw&e=1573016428
+https://live-hls-tvplusonline.cdnvideo.ru/sts/index.m3u8?md5=aCZqfmE6Il74Eo-qyfMxQw&e=1573016428
 #EXTINF:-1 tvg-id="tvcentr" group-title="Федеральные",ТВ Центр
-http://live-hls-tvplusonline.cdnvideo.ru/tvc/index.m3u8?md5=Mke7EZYzmOtF6S-RcgwyuA&e=1573016428
+https://live-hls-tvplusonline.cdnvideo.ru/tvc/index.m3u8?md5=Mke7EZYzmOtF6S-RcgwyuA&e=1573016428
 #EXTINF:-1 tvg-id="tv3-ru" group-title="Федеральные",ТВ3
-http://live-hls-tvplusonline.cdnvideo.ru/tv3/index.m3u8?md5=VRCtCrnAWfeMyaxK9sPlVg&e=1573016429
+https://live-hls-tvplusonline.cdnvideo.ru/tv3/index.m3u8?md5=VRCtCrnAWfeMyaxK9sPlVg&e=1573016429
 #EXTINF:-1 tvg-id="tnt" group-title="Федеральные",ТНТ
-http://live-hls-tvplusonline.cdnvideo.ru/tnt/index.m3u8?md5=jBEZdLDKC9eeZ8cJn_cfgw&e=1573016429
+https://live-hls-tvplusonline.cdnvideo.ru/tnt/index.m3u8?md5=jBEZdLDKC9eeZ8cJn_cfgw&e=1573016429
 #EXTINF:-1 tvg-id="tnt" group-title="Федеральные",ТНТ HD
-http://live-hls-tvplusonline.cdnvideo.ru/tnthd/index.m3u8?md5=rrixcbfV4FrqTfltuo-0kA&e=1573016429
+https://live-hls-tvplusonline.cdnvideo.ru/tnthd/index.m3u8?md5=rrixcbfV4FrqTfltuo-0kA&e=1573016429
 #EXTINF:-1 tvg-id="karusel" tvg-shift=-2 group-title="Федеральные +2",Карусель +2
-http://live-hls-tvplusonline.cdnvideo.ru/karuselp2/index.m3u8?md5=1wfA70GMvubMTdahvHzNDA&e=1573016430
+https://live-hls-tvplusonline.cdnvideo.ru/karuselp2/index.m3u8?md5=1wfA70GMvubMTdahvHzNDA&e=1573016430
 #EXTINF:-1 tvg-id="ntv" tvg-shift=-2 group-title="Федеральные +2",НТВ +2
-http://live-hls-tvplusonline.cdnvideo.ru/ntvp2/index.m3u8?md5=2Bx5heXDpEE8nyECzrX_yA&e=1573016430
+https://live-hls-tvplusonline.cdnvideo.ru/ntvp2/index.m3u8?md5=2Bx5heXDpEE8nyECzrX_yA&e=1573016430
 #EXTINF:-1 tvg-id="pervy" tvg-shift=-2 group-title="Федеральные +2",Первый канал +2
-http://live-hls-tvplusonline.cdnvideo.ru/perviyp2/index.m3u8?md5=ffg0kl9Yq_BPnFPAieaVIg&e=1573016430
+https://live-hls-tvplusonline.cdnvideo.ru/perviyp2/index.m3u8?md5=ffg0kl9Yq_BPnFPAieaVIg&e=1573016430
 #EXTINF:-1 tvg-id="piatnica" tvg-shift=-2 group-title="Федеральные +2",Пятница +2
-http://live-hls-tvplusonline.cdnvideo.ru/fridayp2/index.m3u8?md5=6A1HPENtnDm5Wkn7gNLIqw&e=1573016431
+https://live-hls-tvplusonline.cdnvideo.ru/fridayp2/index.m3u8?md5=6A1HPENtnDm5Wkn7gNLIqw&e=1573016431
 #EXTINF:-1 tvg-id="rentv" tvg-shift=-2 group-title="Федеральные +2",Рен Тв +2
-http://live-hls-tvplusonline.cdnvideo.ru/renp2/index.m3u8?md5=ZBwCBrBroueCKimqL-0Z3Q&e=1573016431
+https://live-hls-tvplusonline.cdnvideo.ru/renp2/index.m3u8?md5=ZBwCBrBroueCKimqL-0Z3Q&e=1573016431
 #EXTINF:-1 tvg-id="rossia1" tvg-shift=-2 group-title="Федеральные +2",Россия 1 +2
-http://live-hls-tvplusonline.cdnvideo.ru/russiap2/index.m3u8?md5=pIHpGnPYVgkIfpuihOvH8Q&e=1573016431
-#EXTINF:-1 tvg-id="sts" tvg-shift=-2 group-title="Федеральные +2",СТС +2
-http://live-hls-tvplusonline.cdnvideo.ru/stsp2/index.m3u8?md5=z6tuGKQZcDWZBkfuG5YwDA&e=1573016432
-#EXTINF:-1 tvg-id="tv3-ru" tvg-shift=-2 group-title="Федеральные +2",ТВ3 +2
-http://live-hls-tvplusonline.cdnvideo.ru/tv3p2/index.m3u8?md5=Ekx96ZiBS0uS2iNvrG7sCg&e=1573016432
-#EXTINF:-1 tvg-id="tnt" tvg-shift=-2 group-title="Федеральные +2",ТНТ +2
-http://live-hls-tvplusonline.cdnvideo.ru/tntp2/index.m3u8?md5=2TGTZfMT88xn9W9cXWo5EA&e=1573016432
-#EXTINF:-1 tvg-id="karusel" tvg-shift=-4 group-title="Федеральные +4",Карусель +4
-http://live-hls-tvplusonline.cdnvideo.ru/karuselp4/index.m3u8?md5=K1BfylaDCJp33X4plLex-g&e=1573016433
-#EXTINF:-1 tvg-id="ntv" tvg-shift=-4 group-title="Федеральные +4",НТВ +4
-http://live-hls-tvplusonline.cdnvideo.ru/ntvp4/index.m3u8?md5=b0o0cxCafdGxcXeFdtmJ-A&e=1573016433
-#EXTINF:-1 tvg-id="pervy" tvg-shift=-4 group-title="Федеральные +4",Первый канал +4
-http://live-hls-tvplusonline.cdnvideo.ru/perviyp4/index.m3u8?md5=Z0d4JzJJq-x7rT1qdGBM-g&e=1573016434
-#EXTINF:-1 tvg-id="piatnica" tvg-shift=-4 group-title="Федеральные +4",Пятница +4
-http://live-hls-tvplusonline.cdnvideo.ru/fridayp4/index.m3u8?md5=-jZp5SoqwMGGBqhk41NBQg&e=1573016434
-#EXTINF:-1 tvg-id="rentv" tvg-shift=-4 group-title="Федеральные +4",Рен Тв +4
-http://live-hls-tvplusonline.cdnvideo.ru/renp4/index.m3u8?md5=W2ZMOAVfT221aIVSl2x-EA&e=1573016434
-#EXTINF:-1 tvg-id="rossia1" tvg-shift=-4 group-title="Федеральные +4",Россия 1 +4
-http://live-hls-tvplusonline.cdnvideo.ru/russiap4/index.m3u8?md5=UbJOen0rPQlxewhS4Yg4TQ&e=1573016434
-#EXTINF:-1 tvg-id="sts" tvg-shift=-4 group-title="Федеральные +4",СТС +4
-http://live-hls-tvplusonline.cdnvideo.ru/stsp4/index.m3u8?md5=HWFgtrtxLe_znd1Vvm4-SQ&e=1573016435
-#EXTINF:-1 tvg-id="tv3-ru" tvg-shift=-4 group-title="Федеральные +4",ТВ3 +4
-http://live-hls-tvplusonline.cdnvideo.ru/tv3p4/index.m3u8?md5=rXPAAQYJed6okzxB0AsOyw&e=1573016435
-#EXTINF:-1 tvg-id="tnt" tvg-shift=-4 group-title="Федеральные +4",ТНТ +4
-http://live-hls-tvplusonline.cdnvideo.ru/tntp4/index.m3u8?md5=4GywMPdt7rx8p5gMaDQHVw&e=1573016435
-#EXTINF:-1 tvg-id="karusel" tvg-shift=-6 group-title="Федеральные +6",Карусель +6
-http://live-hls-tvplusonline.cdnvideo.ru/karuselp6/index.m3u8?md5=5ilfUWue_-tYbJTI1MAQ2Q&e=1573016436
-#EXTINF:-1 tvg-id="ntv" tvg-shift=-6 group-title="Федеральные +6",НТВ +6
-http://live-hls-tvplusonline.cdnvideo.ru/ntvp6/index.m3u8?md5=GGBmdAWoht3Wpb05pkHZfA&e=1573016436
-#EXTINF:-1 tvg-id="pervy" tvg-shift=-6 group-title="Федеральные +6",Первый канал +6
-http://live-hls-tvplusonline.cdnvideo.ru/perviyp6/index.m3u8?md5=216d6vr5V3dOw0HFl7l_fg&e=1573016436
-#EXTINF:-1 tvg-id="piatnica" tvg-shift=-6 group-title="Федеральные +6",Пятница +6
-http://live-hls-tvplusonline.cdnvideo.ru/fridayp6/index.m3u8?md5=vNdPEG7an9HAfEJvePxIuQ&e=1573016437
-#EXTINF:-1 tvg-id="rentv" tvg-shift=-6 group-title="Федеральные +6",Рен Тв +6
-http://live-hls-tvplusonline.cdnvideo.ru/renp6/index.m3u8?md5=0LswrHj5MJAWShpg3xgNLw&e=1573016437
-#EXTINF:-1 tvg-id="rossia1" tvg-shift=-6 group-title="Федеральные +6",Россия 1 +6
-http://live-hls-tvplusonline.cdnvideo.ru/russiap6/index.m3u8?md5=07n2PNEupC0GbGCOPpUaxQ&e=1573016437
-#EXTINF:-1 tvg-id="sts" tvg-shift=-6 group-title="Федеральные +6",СТС +6
-http://live-hls-tvplusonline.cdnvideo.ru/stsp6/index.m3u8?md5=Jgrs_hb60CULTY5LizzYZg&e=1573016438
-#EXTINF:-1 tvg-id="tv3-ru" tvg-shift=-6 group-title="Федеральные +6",ТВ3 +6
-http://live-hls-tvplusonline.cdnvideo.ru/tv3p6/index.m3u8?md5=XR1dObuH-SMFbiQ9vuYXqA&e=1573016438
-#EXTINF:-1 tvg-id="tnt" tvg-shift=-6 group-title="Федеральные +6",ТНТ +6
-http://live-hls-tvplusonline.cdnvideo.ru/tntp6/index.m3u8?md5=-JPnyZE78dn_iSKOEEhZ0w&e=1573016438
-#EXTINF:-1 tvg-id="hd-media" group-title="Фильмы",HD Media
-http://live-hls-tvplusonline.cdnvideo.ru/hdmedia/index.m3u8?md5=gcxdA_eODHo02ZbuGBkFtA&e=1573016439
-#EXTINF:-1 group-title="Фильмы",КиноМеню HD
-http://live-hls-tvplusonline.cdnvideo.ru/kinomenu/index.m3u8?md5=03ERZrbg8s8PFPZh65nCvA&e=1573016439
-#EXTINF:-1 tvg-id="kinopremiera-hd" group-title="Фильмы",Кинопремьера HD
-http://live-hls-tvplusonline.cdnvideo.ru/kinopremier/index.m3u8?md5=iNfQAV2zHl4JUUBUE_H-hA&e=1573016439
-#EXTINF:-1 tvg-id="kinosvidanie" group-title="Фильмы",Киносвидание
-http://live-hls-tvplusonline.cdnvideo.ru/kinolove/index.m3u8?md5=bxvx6jEdyNJvRPqDXDWhtA&e=1573016440
-#EXTINF:-1 tvg-id="kinosemiya" group-title="Фильмы",Киносемья
-http://live-hls-tvplusonline.cdnvideo.ru/kinofamily/index.m3u8?md5=_sVfazV2vWS3_HuFPTJ_lg&e=1573016440
-#EXTINF:-1 tvg-id="kinoxit" group-title="Фильмы",Кинохит
-http://live-hls-tvplusonline.cdnvideo.ru/kinohit/index.m3u8?md5=PpYr4_kfFLAw5bEZGzlU-w&e=1573016440
-#EXTINF:-1 tvg-id="klassika-kino" group-title="Фильмы",Классика Кино
-http://live-hls-tvplusonline.cdnvideo.ru/classickino/index.m3u8?md5=k-q6pqC9hS82AdcRx6h5Vw&e=1573016441
-#EXTINF:-1 tvg-id="muzhskoe-kino" group-title="Фильмы",Мужское кино
-http://live-hls-tvplusonline.cdnvideo.ru/kinoman/index.m3u8?md5=35UwssvTqXZaMTlJAWJ8xA&e=1573016441
-#EXTINF:-1 tvg-id="sovkino" group-title="Фильмы",Советское кино
-http://live-hls-tvplusonline.cdnvideo.ru/sovmov/index.m3u8?md5=HoyfFzUxWUXtyMqImV99zw&e=1573016441
+https://live-hls-tvplusonline.cdnvideo.ru/russiap2/index.m3u8?md5=pIHpGnPYVgkIfpuihOvH8Q&e=1573016431
