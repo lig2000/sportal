@@ -1,0 +1,480 @@
+#EXTM3U
+#EXTINF:-1 group-title="Эфирные",ПЕРВЫЙ HD
+http://151.0.48.26:8080/ch0012
+#EXTINF:-1 group-title="Эфирные",ПЕРВЫЙ КАНАЛ
+http://151.0.48.26:8080/ch0007
+#EXTINF:-1 group-title="Эфирные",РОССИЯ 1 HD
+http://151.0.48.26:8080/ch0013
+#EXTINF:-1 group-title="Эфирные",РОССИЯ 1
+http://151.0.48.26:8080/ch0011
+#EXTINF:-1 group-title="Эфирные",МАТЧ! HD
+http://151.0.48.26:8080/ch0086
+#EXTINF:-1 group-title="Эфирные",МАТЧ!
+http://151.0.48.26:8080/ch0087
+#EXTINF:-1 group-title="Эфирные",НТВ HD
+http://151.0.48.26:8080/ch0029
+#EXTINF:-1 group-title="Эфирные",НТВ
+http://151.0.48.26:8080/ch0015
+#EXTINF:-1 group-title="Эфирные",ПЯТЫЙ КАНАЛ
+http://151.0.48.26:8080/ch0193
+#EXTINF:-1 group-title="Эфирные",РОССИЯ К
+http://151.0.48.26:8080/ch0014
+#EXTINF:-1 group-title="Эфирные",РОССИЯ 24
+http://151.0.48.26:8080/ch0006
+#EXTINF:-1 group-title="Эфирные",КАРУСЕЛЬ
+http://151.0.48.26:8080/ch0054
+#EXTINF:-1 group-title="Эфирные",ОТР
+http://151.0.48.26:8080/ch0017
+#EXTINF:-1 group-title="Эфирные",ТВ ЦЕНТР
+http://151.0.48.26:8080/ch0030
+#EXTINF:-1 group-title="Эфирные",РЕН ТВ
+http://151.0.48.26:8080/ch0022
+#EXTINF:-1 group-title="Эфирные",СПАС
+http://151.0.48.26:8080/ch0043
+#EXTINF:-1 group-title="Эфирные",СТС
+http://151.0.48.26:8080/ch0019
+#EXTINF:-1 group-title="Эфирные",ДОМАШНИЙ
+http://151.0.48.26:8080/ch0044
+#EXTINF:-1 group-title="Эфирные",ТВ3
+http://151.0.48.26:8080/ch0025
+#EXTINF:-1 group-title="Эфирные",ПЯТНИЦА
+http://151.0.48.26:8080/ch0020
+#EXTINF:-1 group-title="Эфирные",ЗВЕЗДА
+http://151.0.48.26:8080/ch0016
+#EXTINF:-1 group-title="Эфирные",ТНТ HD
+http://151.0.48.26:8080/ch0026
+#EXTINF:-1 group-title="Эфирные",ТНТ
+http://151.0.48.26:8080/ch0021
+#EXTINF:-1 group-title="Эфирные",Радость моя
+http://151.0.48.26:8080/ch0023
+#EXTINF:-1 group-title="Эфирные",Океан
+http://151.0.48.26:8080/ch0036
+#EXTINF:-1 group-title="Эфирные",Bridge TV
+http://151.0.48.26:8080/ch0190
+#EXTINF:-1 group-title="Фильмовые",A 1
+http://151.0.48.26:8080/ch0133
+#EXTINF:-1 group-title="Фильмовые",A 2
+http://151.0.48.26:8080/ch0142
+#EXTINF:-1 group-title="Фильмовые",AMEDIA HIT
+http://151.0.48.26:8080/ch0134
+#EXTINF:-1 group-title="Фильмовые",AMEDIA PREMIUM HD
+http://151.0.48.26:8080/ch0143
+#EXTINF:-1 group-title="Фильмовые",AMEDIA PREMIUM
+http://151.0.48.26:8080/ch0135
+#EXTINF:-1 group-title="Фильмовые",BOLLYWOOD HD
+http://151.0.48.26:8080/ch0125
+#EXTINF:-1 group-title="Фильмовые",BOLLYWOOD
+http://151.0.48.26:8080/ch0139
+#EXTINF:-1 group-title="Фильмовые",FOX HD
+http://151.0.48.26:8080/ch0129
+#EXTINF:-1 group-title="Фильмовые",FOX LIFE
+http://151.0.48.26:8080/ch0152
+#EXTINF:-1 group-title="Фильмовые",FOX
+http://151.0.48.26:8080/ch0124
+#EXTINF:-1 group-title="Фильмовые",HOLLYWOOD HD
+http://151.0.48.26:8080/ch0144
+#EXTINF:-1 group-title="Фильмовые",PARAMOUNT CHANNEL
+http://151.0.48.26:8080/ch0160
+#EXTINF:-1 group-title="Фильмовые",PARAMOUNT COMEDY
+http://151.0.48.26:8080/ch0159
+#EXTINF:-1 group-title="Фильмовые",SONY CHANNEL
+http://151.0.48.26:8080/ch0146
+#EXTINF:-1 group-title="Фильмовые",SONY SCI-FI
+http://151.0.48.26:8080/ch0147
+#EXTINF:-1 group-title="Фильмовые",SONY TURBO
+http://151.0.48.26:8080/ch0148
+#EXTINF:-1 group-title="Фильмовые",SPIKE
+http://151.0.48.26:8080/ch0096
+#EXTINF:-1 group-title="Фильмовые",TV 1000 ACTION
+http://151.0.48.26:8080/ch0127
+#EXTINF:-1 group-title="Фильмовые",TV 1000
+http://151.0.48.26:8080/ch0126
+#EXTINF:-1 group-title="Фильмовые",TV 1000 РУССКОЕ КИНО
+http://151.0.48.26:8080/ch0128
+#EXTINF:-1 group-title="Фильмовые",VIP COMEDY
+http://151.0.48.26:8080/ch0130
+#EXTINF:-1 group-title="Фильмовые",VIP MEGAHIT
+http://151.0.48.26:8080/ch0131
+#EXTINF:-1 group-title="Фильмовые",VIP PREMIERE
+http://151.0.48.26:8080/ch0132
+#EXTINF:-1 group-title="Фильмовые",ВРЕМЯ
+http://151.0.48.26:8080/ch0040
+#EXTINF:-1 group-title="Фильмовые",ДОМ КИНО
+http://151.0.48.26:8080/ch0153
+#EXTINF:-1 group-title="Фильмовые",ДОМ КИНО ПРЕМИУМ HD
+http://151.0.48.26:8080/ch0154
+#EXTINF:-1 group-title="Фильмовые",ДОРАМА
+http://151.0.48.26:8080/ch0178
+#EXTINF:-1 group-title="Фильмовые",ЕВРОКИНО
+http://151.0.48.26:8080/ch0138
+#EXTINF:-1 group-title="Фильмовые",ИНДИЙСКОЕ КИНО
+http://151.0.48.26:8080/ch0155
+#EXTINF:-1 group-title="Фильмовые",КИНОКОМЕДИЯ
+http://151.0.48.26:8080/ch0161
+#EXTINF:-1 group-title="Фильмовые",КИНОМИКС
+http://151.0.48.26:8080/ch0156
+#EXTINF:-1 group-title="Фильмовые",КИНОСВИДАНИЕ
+http://151.0.48.26:8080/ch0157
+#EXTINF:-1 group-title="Фильмовые",КИНОСЕМЬЯ
+http://151.0.48.26:8080/ch0165
+#EXTINF:-1 group-title="Фильмовые",КИНОСЕРИЯ
+http://151.0.48.26:8080/ch0162
+#EXTINF:-1 group-title="Фильмовые",КИНОХИТ
+http://151.0.48.26:8080/ch0158
+#EXTINF:-1 group-title="Фильмовые",НАШЕ НОВОЕ КИНО
+http://151.0.48.26:8080/ch0164
+#EXTINF:-1 group-title="Фильмовые",НСТ
+http://151.0.48.26:8080/ch0150
+#EXTINF:-1 group-title="Фильмовые",НТВ СЕРИАЛ
+http://151.0.48.26:8080/ch0078
+#EXTINF:-1 group-title="Фильмовые",НТВ ХИТ
+http://151.0.48.26:8080/ch0167
+#EXTINF:-1 group-title="Фильмовые",РОРДНОЕ КИНО
+http://151.0.48.26:8080/ch0163
+#EXTINF:-1 group-title="Фильмовые",РУССКИЙ БЕСТСЕЛЛЕР
+http://151.0.48.26:8080/ch0170
+#EXTINF:-1 group-title="Фильмовые",РУССКИЙ ИЛЛЮЗИОН
+http://151.0.48.26:8080/ch0141
+#EXTINF:-1 group-title="Фильмовые",РУССКИЙ РОМАН
+http://151.0.48.26:8080/ch0172
+#EXTINF:-1 group-title="Фильмовые",СТС LOVE
+http://151.0.48.26:8080/ch0033
+#EXTINF:-1 group-title="Фильмовые",СУПЕР
+http://151.0.48.26:8080/ch0179
+
+#EXTINF:-1 group-title="Спортивные",DISCOVERY HD
+http://151.0.48.26:8080/ch0089
+#EXTINF:-1 group-title="Спортивные",EUROSPORT 1
+http://151.0.48.26:8080/ch0095
+#EXTINF:-1 group-title="Спортивные",EUROSPORT 2 HD
+http://151.0.48.26:8080/ch0094
+#EXTINF:-1 group-title="Спортивные",EUROSPORT 2 HD
+http://151.0.48.26:8080/ch0136
+#EXTINF:-1 group-title="Спортивные",EXTREME SPORTS
+http://151.0.48.26:8080/ch0091
+#EXTINF:-1 group-title="Спортивные",M-1 GLOBAL
+http://151.0.48.26:8080/ch0177
+#EXTINF:-1 group-title="Спортивные",VIASAT SPORT
+http://151.0.48.26:8080/ch0092
+#EXTINF:-1 group-title="Спортивные",БОКС ТВ
+http://151.0.48.26:8080/ch0187
+#EXTINF:-1 group-title="Спортивные",КХЛ
+http://151.0.48.26:8080/ch0090
+#EXTINF:-1 group-title="Спортивные",МАТЧ! HD
+http://151.0.48.26:8080/ch0086
+#EXTINF:-1 group-title="Спортивные",МАТЧ!
+http://151.0.48.26:8080/ch0087
+#EXTINF:-1 group-title="Спортивные",МАТЧ! АРЕНА
+http://151.0.48.26:8080/ch0077
+#EXTINF:-1 group-title="Спортивные",МАТЧ! БОЕЦ
+http://151.0.48.26:8080/ch0076
+#EXTINF:-1 group-title="Спортивные",МАТЧ! ИГРА
+http://151.0.48.26:8080/ch0075
+#EXTINF:-1 group-title="Спортивные",МАТЧ! ПРЕМЬЕР HD
+http://151.0.48.26:8080/ch0088
+#EXTINF:-1 group-title="Спортивные",МАТЧ! СТРАНА
+http://151.0.48.26:8080/ch0079
+#EXTINF:-1 group-title="Спортивные",МАТЧ! ФУТБОЛ 1 HD
+http://151.0.48.26:8080/ch0083
+#EXTINF:-1 group-title="Спортивные",МАТЧ! ФУТБОЛ 1
+http://151.0.48.26:8080/ch0080
+#EXTINF:-1 group-title="Спортивные",МАТЧ! ФУТБОЛ 2 HD
+http://151.0.48.26:8080/ch0084
+#EXTINF:-1 group-title="Спортивные",МАТЧ! ФУТБОЛ 2
+http://151.0.48.26:8080/ch0081
+#EXTINF:-1 group-title="Спортивные",МАТЧ! ФУТБОЛ 3 HD
+http://151.0.48.26:8080/ch0085
+#EXTINF:-1 group-title="Спортивные",МАТЧ! ФУТБОЛ 3
+http://151.0.48.26:8080/ch0082
+#EXTINF:-1 group-title="Спортивные",МИР БАСКЕТБОЛА
+http://151.0.48.26:8080/ch0195
+
+#EXTINF:-1 group-title="Развлекательные",2X2
+http://151.0.48.26:8080/ch0027
+#EXTINF:-1 group-title="Развлекательные",БСТ
+http://151.0.48.26:8080/ch0189
+#EXTINF:-1 group-title="Развлекательные",КВН
+http://151.0.48.26:8080/ch0097
+#EXTINF:-1 group-title="Развлекательные",САРАФАН
+http://151.0.48.26:8080/ch0173
+#EXTINF:-1 group-title="Развлекательные",ТНТ4
+http://151.0.48.26:8080/ch0028
+#EXTINF:-1 group-title="Развлекательные",ЧЕ!
+http://151.0.48.26:8080/ch0171
+
+#EXTINF:-1 group-title="Познавательные",1 МЕТЕО
+http://151.0.48.26:8080/ch0180
+#EXTINF:-1 group-title="Познавательные",365 ДНЕЙ
+http://151.0.48.26:8080/ch0037
+#EXTINF:-1 group-title="Познавательные",ANIMAL PLANET HD
+http://151.0.48.26:8080/ch0101
+#EXTINF:-1 group-title="Познавательные",ANIMAL PLANET
+http://151.0.48.26:8080/ch0121
+#EXTINF:-1 group-title="Познавательные",CBS REALITY
+http://151.0.48.26:8080/ch0137
+#EXTINF:-1 group-title="Познавательные",DISCOVERY SCIENCE
+http://151.0.48.26:8080/ch0051
+#EXTINF:-1 group-title="Познавательные",DISCOVERY
+http://151.0.48.26:8080/ch0116
+#EXTINF:-1 group-title="Познавательные",FINE LIVING
+http://151.0.48.26:8080/ch0176
+#EXTINF:-1 group-title="Познавательные",HISTORY HD
+http://151.0.48.26:8080/ch0119
+#EXTINF:-1 group-title="Познавательные",HISTORY
+http://151.0.48.26:8080/ch0109
+#EXTINF:-1 group-title="Познавательные",INVESTIGATION DISCOVERY
+http://151.0.48.26:8080/ch0123
+#EXTINF:-1 group-title="Познавательные",NAT GEO WILD HD
+http://151.0.48.26:8080/ch0114
+#EXTINF:-1 group-title="Познавательные",NAT GEO WILD
+http://151.0.48.26:8080/ch0100
+#EXTINF:-1 group-title="Познавательные",NATIONAL GEOGRAPHIC HD
+http://151.0.48.26:8080/ch0117
+#EXTINF:-1 group-title="Познавательные",NATIONAL GEOGRAPHIC
+http://151.0.48.26:8080/ch0118
+#EXTINF:-1 group-title="Познавательные",OUTDOOR
+http://151.0.48.26:8080/ch0110
+#EXTINF:-1 group-title="Познавательные",RTG TV HD
+http://151.0.48.26:8080/ch0115
+#EXTINF:-1 group-title="Познавательные",RTG TV
+http://151.0.48.26:8080/ch0112
+#EXTINF:-1 group-title="Познавательные",TLC HD
+http://151.0.48.26:8080/ch0024
+#EXTINF:-1 group-title="Познавательные",TLC
+http://151.0.48.26:8080/ch0035
+#EXTINF:-1 group-title="Познавательные",TRAVEL CHANNEL HD
+http://151.0.48.26:8080/ch0120
+#EXTINF:-1 group-title="Познавательные",TRAVEL CHANNEL
+http://151.0.48.26:8080/ch0111
+#EXTINF:-1 group-title="Познавательные",VIASAT EXPLORE
+http://151.0.48.26:8080/ch0103
+#EXTINF:-1 group-title="Познавательные",VIASAT HISTORY
+http://151.0.48.26:8080/ch0104
+#EXTINF:-1 group-title="Познавательные",VIASAT NATURE HD
+http://151.0.48.26:8080/ch0106
+#EXTINF:-1 group-title="Познавательные",VIASAT NATURE
+http://151.0.48.26:8080/ch0105
+#EXTINF:-1 group-title="Познавательные",WF
+http://151.0.48.26:8080/ch0049
+#EXTINF:-1 group-title="Познавательные",АВТО 24
+http://151.0.48.26:8080/ch0145
+#EXTINF:-1 group-title="Познавательные",АВТО ПЛЮС
+http://151.0.48.26:8080/ch0038
+#EXTINF:-1 group-title="Познавательные",БОБЁР
+http://151.0.48.26:8080/ch0039
+#EXTINF:-1 group-title="Познавательные",ДОМАШНИЕ ЖИВОТНЫЕ
+http://151.0.48.26:8080/ch0052
+#EXTINF:-1 group-title="Познавательные",ЖИВИ
+http://151.0.48.26:8080/ch0188
+#EXTINF:-1 group-title="Познавательные",ЗАГОРОДНАЯ ЖИЗНЬ
+http://151.0.48.26:8080/ch0149
+#EXTINF:-1 group-title="Познавательные",ЗДОРОВЬЕ
+http://151.0.48.26:8080/ch0098
+#EXTINF:-1 group-title="Познавательные",ЗООПАРК
+http://151.0.48.26:8080/ch0174
+#EXTINF:-1 group-title="Познавательные",ИСТОРИЯ
+http://151.0.48.26:8080/ch0113
+#EXTINF:-1 group-title="Познавательные",КОННЫЙ МИР HD
+http://151.0.48.26:8080/ch0183
+#EXTINF:-1 group-title="Познавательные",КТО ЕСТЬ КТО
+http://151.0.48.26:8080/ch0122
+#EXTINF:-1 group-title="Познавательные",КУХНЯ ТВ
+http://151.0.48.26:8080/ch0042
+#EXTINF:-1 group-title="Познавательные",МАМА
+http://151.0.48.26:8080/ch0045
+#EXTINF:-1 group-title="Познавательные",МОРСКОЙ
+http://151.0.48.26:8080/ch0168
+#EXTINF:-1 group-title="Познавательные",МОЯ ПЛАНЕТА
+http://151.0.48.26:8080/ch0108
+#EXTINF:-1 group-title="Познавательные",НАУКА
+http://151.0.48.26:8080/ch0099
+#EXTINF:-1 group-title="Познавательные",НОСТАЛЬГИЯ
+http://151.0.48.26:8080/ch0041
+#EXTINF:-1 group-title="Познавательные",НТВ ПРАВО
+http://151.0.48.26:8080/ch0184
+#EXTINF:-1 group-title="Познавательные",НТВ СТИЛЬ
+http://151.0.48.26:8080/ch0166
+#EXTINF:-1 group-title="Познавательные",ПЕРВЫЙ ОБРАЗОВАТЕЛЬНЫЙ
+http://151.0.48.26:8080/ch0107
+#EXTINF:-1 group-title="Познавательные",ПОЕХАЛИ!
+http://151.0.48.26:8080/ch0151
+#EXTINF:-1 group-title="Познавательные",ПРОСВЕЩЕНИЕ
+http://151.0.48.26:8080/ch0191
+#EXTINF:-1 group-title="Познавательные",СОВЕРШЕННО СЕКРЕТНО
+http://151.0.48.26:8080/ch0032
+#EXTINF:-1 group-title="Познавательные",ТВОЙ ДОМ
+http://151.0.48.26:8080/ch0181
+#EXTINF:-1 group-title="Познавательные",ТОЧКА ОТРЫВА
+http://151.0.48.26:8080/ch0169
+#EXTINF:-1 group-title="Познавательные",УСАДЬБА
+http://151.0.48.26:8080/ch0053
+
+#EXTINF:-1 group-title="Новостные",BBC NEWS
+http://151.0.48.26:8080/ch0194
+#EXTINF:-1 group-title="Новостные",EURONEWS
+http://151.0.48.26:8080/ch0009
+#EXTINF:-1 group-title="Новостные",RTД
+http://151.0.48.26:8080/ch0010
+#EXTINF:-1 group-title="Новостные",АРХЫЗ 24
+http://151.0.48.26:8080/ch0034
+#EXTINF:-1 group-title="Новостные",МИР 24
+http://151.0.48.26:8080/ch0047
+#EXTINF:-1 group-title="Новостные",МОСКВА 24
+http://151.0.48.26:8080/ch0031
+#EXTINF:-1 group-title="Новостные",РБК
+http://151.0.48.26:8080/ch0008
+
+#EXTINF:-1 group-title="Музыкальные",BRIDGE TV DEUXE HD
+http://151.0.48.26:8080/ch0048
+#EXTINF:-1 group-title="Музыкальные",BRIDGE TV DEUXE HD
+http://151.0.48.26:8080/ch0074
+#EXTINF:-1 group-title="Музыкальные",BRIDGE TV HITS
+http://151.0.48.26:8080/ch0182
+#EXTINF:-1 group-title="Музыкальные",BRIDGE TV РУССКИЙ ХИТ
+http://151.0.48.26:8080/ch0201
+#EXTINF:-1 group-title="Музыкальные",EUROPA PLUS TV
+http://151.0.48.26:8080/ch0073
+#EXTINF:-1 group-title="Музыкальные",MCM TUP
+http://151.0.48.26:8080/ch0072
+#EXTINF:-1 group-title="Музыкальные",MEZZO LIVE HD
+http://151.0.48.26:8080/ch0198
+#EXTINF:-1 group-title="Музыкальные",MEZZO
+http://151.0.48.26:8080/ch0197
+#EXTINF:-1 group-title="Музыкальные",MTV DANCE
+http://151.0.48.26:8080/ch0069
+#EXTINF:-1 group-title="Музыкальные",MTV HITS
+http://151.0.48.26:8080/ch0070
+#EXTINF:-1 group-title="Музыкальные",MTV LIFE HD
+http://151.0.48.26:8080/ch0067
+#EXTINF:-1 group-title="Музыкальные",MTV ROCKS
+http://151.0.48.26:8080/ch0071
+#EXTINF:-1 group-title="Музыкальные",MTV
+http://151.0.48.26:8080/ch0068
+#EXTINF:-1 group-title="Музыкальные",RU TV
+http://151.0.48.26:8080/ch0196
+#EXTINF:-1 group-title="Музыкальные",НАШЕ TV
+http://151.0.48.26:8080/ch0140
+#EXTINF:-1 group-title="Музыкальные",ШАНСОН ТВ
+http://151.0.48.26:8080/ch0200
+#EXTINF:-1 group-title="Музыкальные",1.FM - A List 80s
+http://strm112.1.fm/back280s_mobile_mp3
+#EXTINF:-1 group-title="Музыкальные",1.FM - Absolute 90's
+http://strm112.1.fm/90s_mobile_mp3
+#EXTINF:-1 group-title="Музыкальные",1.FM - Absolute Country Hits
+http://strm112.1.fm/acountry_mobile_mp3
+#EXTINF:-1 group-title="Музыкальные",1.FM - Absolute TOP 40 Radio
+http://strm112.1.fm/top40_mobile_mp3
+#EXTINF:-1 group-title="Музыкальные",1.FM - Absolute Trance
+http://strm112.1.fm/trance_mobile_mp3
+#EXTINF:-1 group-title="Музыкальные",1.FM - Acappella
+http://strm112.1.fm/acpl_mobile_mp3
+#EXTINF:-1 group-title="Музыкальные",1.FM - Adore Vocal Jazz
+http://strm112.1.fm/ajazz_mobile_mp3
+#EXTINF:-1 group-title="Музыкальные",1.FM - Adult Urban Hits Choice
+http://strm112.1.fm/oldschool_mobile_mp3
+#EXTINF:-1 group-title="Музыкальные",1.FM - Afterbeat Electronica
+http://strm112.1.fm/electronica_mobile_mp3
+#EXTINF:-1 group-title="Музыкальные",1.FM - All Euro 80's
+http://strm112.1.fm/80s_90s_mobile_mp3
+#EXTINF:-1 group-title="Музыкальные",1.FM - All Times Urban Gospel
+http://strm112.1.fm/gospel_mobile_mp3
+#EXTINF:-1 group-title="Музыкальные",1.FM - Alternative Rock X Hits
+http://strm112.1.fm/x_mobile_mp3
+#EXTINF:-1 group-title="Музыкальные",1.FM - Americas Best Ballads
+http://strm112.1.fm/onelive_mobile_mp3
+#EXTINF:-1 group-title="Музыкальные",1.FM - Amsterdam Trance
+http://strm112.1.fm/atr_mobile_mp3
+#EXTINF:-1 group-title="Музыкальные",1.FM - Back To The 50's & 60's
+http://strm112.1.fm/60s_70s_mobile_mp3
+#EXTINF:-1 group-title="Музыкальные",1.FM - Bay Smooth Jazz Radio
+http://strm112.1.fm/smoothjazz_mobile_mp3
+#EXTINF:-1 group-title="Музыкальные",1.FM - Blues
+http://strm112.1.fm/blues_mobile_mp3
+#EXTINF:-1 group-title="Музыкальные",1.FM - Bombay Beats India
+http://strm112.1.fm/bombaybeats_mobile_mp3
+#EXTINF:-1 group-title="Музыкальные",1.FM - Chillout Costa Del Ma
+http://strm112.1.fm/costadelmarchillout_mobile_mp3
+#EXTINF:-1 group-title="Музыкальные",1.FM - Chillout Lounge
+http://strm112.1.fm/chilloutlounge_mobile_mp3
+#EXTINF:-1 group-title="Музыкальные",1.FM - Circuit Pride
+http://strm112.1.fm/circuitpride_mobile_mp3
+#EXTINF:-1 group-title="Музыкальные",1.FM - Classic Country
+http://strm112.1.fm/ccountry_mobile_mp3
+#EXTINF:-1 group-title="Музыкальные",1.FM - Classic Rock Replay
+http://strm112.1.fm/crock_mobile_mp3
+#EXTINF:-1 group-title="Музыкальные",1.FM - Club 1 Radio
+http://strm112.1.fm/club_mobile_mp3
+#EXTINF:-1 group-title="Музыкальные",1.FM - Country One
+http://strm112.1.fm/country_mobile_mp3
+#EXTINF:-1 group-title="Музыкальные",1.FM - Dance One
+http://strm112.1.fm/dance_mobile_mp3
+#EXTINF:-1 group-title="Музыкальные",1.FM - Deep House
+http://strm112.1.fm/deephouse_mobile_mp3
+#EXTINF:-1 group-title="Музыкальные",1.FM - Destination SPA
+http://strm112.1.fm/spa_mobile_mp3
+#EXTINF:-1 group-title="Музыкальные",1.FM - Disco Ball 70's-80's
+http://strm112.1.fm/disco_mobile_mp3
+#EXTINF:-1 group-title="Музыкальные",1.FM - Dubstep Forward
+http://strm112.1.fm/dubstep_mobile_mp3
+#EXTINF:-1 group-title="Музыкальные",1.FM - Eternal Praise Worship
+http://strm112.1.fm/praise_mobile_mp3
+#EXTINF:-1 group-title="Музыкальные",1.FM - Fashion TV Radio
+http://strm112.1.fm/ftv_mobile_mp3
+#EXTINF:-1 group-title="Музыкальные",1.FM - Gorilla FM
+http://strm112.1.fm/gorillafm_mobile_mp3
+#EXTINF:-1 group-title="Музыкальные",1.FM - High Voltage
+http://strm112.1.fm/highvoltage_mobile_mp3
+#EXTINF:-1 group-title="Музыкальные",1.FM - Jamz
+http://strm112.1.fm/jamz_mobile_mp3
+#EXTINF:-1 group-title="Музыкальные",1.FM - Otto's Baroque Music
+http://strm112.1.fm/baroque_mobile_mp3
+#EXTINF:-1 group-title="Музыкальные",1.FM - Otto's Classical Music
+http://strm112.1.fm/classical_mobile_mp3
+#EXTINF:-1 group-title="Музыкальные",1.FM - Otto's Opera House Music
+http://strm112.1.fm/opera_mobile_mp3
+#EXTINF:-1 group-title="Музыкальные",1.FM - Reggae Trade
+http://strm112.1.fm/reggae_mobile_mp3
+
+#EXTINF:-1 group-title="Зарубежные",НОВОРОССИЯ HD
+http://151.0.48.26:8080/ch0004
+#EXTINF:-1 group-title="Зарубежные",ОПЛОТ 2
+http://151.0.48.26:8080/ch0002
+#EXTINF:-1 group-title="Зарубежные",ПЕРВЫЙ РЕСПУБЛИКАНСКИЙ
+http://151.0.48.26:8080/ch0001
+#EXTINF:-1 group-title="Зарубежные",РОССИЯ HD
+http://151.0.48.26:8080/ch0003
+#EXTINF:-1 group-title="Зарубежные",ЮНИОН
+http://151.0.48.26:8080/ch0005
+
+#EXTINF:-1 group-title="Детские",CARTOON NETWORK
+http://151.0.48.26:8080/ch0063
+#EXTINF:-1 group-title="Детские",DA VINCI KIDS
+http://151.0.48.26:8080/ch0102
+#EXTINF:-1 group-title="Детские",DISNEY
+http://151.0.48.26:8080/ch0055
+#EXTINF:-1 group-title="Детские",GULI GIRL
+http://151.0.48.26:8080/ch0060
+#EXTINF:-1 group-title="Детские",JIM JAM
+http://151.0.48.26:8080/ch0062
+#EXTINF:-1 group-title="Детские",NICK JR.
+http://151.0.48.26:8080/ch0065
+#EXTINF:-1 group-title="Детские",NICKELODEON HD
+http://151.0.48.26:8080/ch0061
+#EXTINF:-1 group-title="Детские",NICKELODEON
+http://151.0.48.26:8080/ch0064
+#EXTINF:-1 group-title="Детские",TIJI
+http://151.0.48.26:8080/ch0059
+#EXTINF:-1 group-title="Детские",В ГОСТЯХ У СКАЗКИ
+http://151.0.48.26:8080/ch0186
+#EXTINF:-1 group-title="Детские",ДЕТСКИЙ МИР
+http://151.0.48.26:8080/ch0057
+#EXTINF:-1 group-title="Детские",КАРУСЕЛЬ
+http://151.0.48.26:8080/ch0054
+#EXTINF:-1 group-title="Детские",МУЛЬТ
+http://151.0.48.26:8080/ch0058
+#EXTINF:-1 group-title="Детские",МУЛЬТ МУЗЫКА
+http://151.0.48.26:8080/ch0185
+#EXTINF:-1 group-title="Детские",МУЛЬТИМАНИЯ
+http://151.0.48.26:8080/ch0175
+#EXTINF:-1 group-title="Детские",ТЛУМ HD
+http://151.0.48.26:8080/ch0056
