@@ -1,0 +1,433 @@
+#EXTM3U
+#EXTINF:-1 group-title="Россия",Первый канал
+http://194.28.153.84:81/udp/225.0.59.1:1234?denms.ru
+#EXTINF:-1 group-title="Россия",Первый HD +4
+http://194.28.153.84:81/udp/225.0.56.1:1234?denms.ru
+#EXTINF:-1 group-title="Россия"  tvg-id="rossia1",Россия 1 HD
+http://194.28.153.84:81/udp/225.0.56.2:1234?denms.ru
+#EXTINF:-1 group-title="Россия" tvg-id="zvezda",Звезда
+http://194.28.153.84:81/udp/225.0.59.17:1234?denms.ru
+#EXTINF:-1 group-title="Россия" tvg-id="tv3-ru",ТВ-3
+http://194.28.153.84:81/udp/225.0.59.15:1234?denms.ru
+#EXTINF:-1 group-title="Россия",Домашний
+http://194.28.153.84:81/udp/225.0.59.14:1234?denms.ru
+#EXTINF:-1 group-title="Россия" tvg-id="rentv",Рен ТВ
+http://194.28.153.84:81/udp/225.0.59.11:1234?denms.ru
+#EXTINF:-1 group-title="Россия" tvg-id="tnt",ТНТ
+http://194.28.153.84:81/udp/225.0.59.19:1234?denms.ru
+#EXTINF:-1 group-title="Россия",ОТР
+http://194.28.153.84:81/udp/225.0.59.9:1234?denms.ru
+#EXTINF:-1 group-title="Россия" tvg-id="tvcentr",ТВЦ
+http://194.28.153.84:81/udp/225.0.59.10:1234?denms.ru
+#EXTINF:-1 group-title="Россия" tvg-id="tnt",ТНТ HD
+http://194.28.153.84:81/udp/225.0.56.92:1234?denms.ru
+#EXTINF:-1 group-title="Россия",НТВ
+http://194.28.153.84:81/udp/225.0.59.4:1234?denms.ru
+#EXTINF:-1 group-title="Россия" tvg-id="5kanal-ru",Петербург 5 канал
+http://194.28.153.84:81/udp/225.0.59.5:1234?denms.ru
+#EXTINF:-1 group-title="Россия" tvg-id="rossia-k",Россия Культура
+http://194.28.153.84:81/udp/225.0.59.6:1234?denms.ru
+#EXTINF:-1 group-title="Россия" tvg-id="rossia-24",Россия 24
+http://194.28.153.84:81/udp/225.0.59.7:1234?denms.ru
+#EXTINF:-1 group-title="Россия",НТВ HD
+http://194.28.153.84:81/udp/225.0.56.98:1234?denms.ru
+#EXTINF:-1 group-title="Россия" tvg-id="rentv",Рен ТВ HD
+http://194.28.153.84:81/udp/225.0.56.99:1234?denms.ru
+#EXTINF:-1 group-title="Россия",МИР
+http://194.28.153.84:81/udp/225.0.59.18:1234?denms.ru
+#EXTINF:-1 group-title="Россия" tvg-id="rossia1",Россия 1
+http://194.28.153.84:81/udp/225.0.59.2:1234?denms.ru
+#EXTINF:-1 group-title="Новости",EURONEWS
+http://194.28.153.84:81/udp/225.0.55.11:1234?denms.ru
+#EXTINF:-1 group-title="Новости",MEIDAN TV
+http://194.28.153.84:81/udp/225.0.55.28:1234?denms.ru
+#EXTINF:-1 group-title="Новости" tvg-id="france24-fr",France 24 Fr
+http://194.28.153.84:81/udp/225.0.55.105:1234?denms.ru
+#EXTINF:-1 group-title="Новости",NHK WORLD
+http://194.28.153.84:81/udp/225.0.55.112:1234?denms.ru
+#EXTINF:-1 group-title="Новости"  tvg-id="8kanal-ru",8 канал
+http://194.28.153.84:81/udp/225.0.59.23:1234?denms.ru
+#EXTINF:-1 group-title="Новости" tvg-id="rbk",РБК ТВ
+http://194.28.153.84:81/udp/225.0.55.37:1234?denms.ru
+#EXTINF:-1 group-title="Новости",CNN
+http://194.28.153.84:81/udp/225.0.55.242:1234?denms.ru
+#EXTINF:-1 group-title="Новости" tvg-id="rtd-ru",RT Д Русский
+http://194.28.153.84:81/udp/225.0.56.32:1234?denms.ru
+#EXTINF:-1 group-title="Новости",Мир Premium HD
+http://194.28.153.84:81/udp/225.0.56.67:1234?denms.ru
+#EXTINF:-1 group-title="Новости",Дождь HD
+http://194.28.153.84:81/udp/225.0.56.66:1234?denms.ru
+#EXTINF:-1 group-title="Новости" tvg-id="rtg-hd",RTG HD
+http://194.28.153.84:81/udp/225.0.56.59:1234?denms.ru
+#EXTINF:-1 group-title="Новости",МИР-24
+http://194.28.153.84:81/udp/225.0.55.218:1234?denms.ru
+#EXTINF:-1 group-title="Новости" tvg-id="rt-america",RT America
+http://194.28.153.84:81/udp/225.0.55.193:1234?denms.ru
+#EXTINF:-1 group-title="Новости",Deutsche Welle Deutsch
+http://194.28.153.84:81/udp/225.0.55.129:1234?denms.ru
+#EXTINF:-1 group-title="Кино и сериалы",НАШЕ НОВОЕ КИНО
+http://194.28.153.84:81/udp/225.0.55.69:1234?denms.ru
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="rodnoe-kino",Родное кино
+http://194.28.153.84:81/udp/225.0.55.192:1234?denms.ru
+#EXTINF:-1 group-title="Кино и сериалы",КИНОСЕРИЯ
+http://194.28.153.84:81/udp/225.0.55.77:1234?denms.ru
+#EXTINF:-1 group-title="Кино и сериалы",Комедия
+http://194.28.153.84:81/udp/225.0.55.94:1234?denms.ru
+#EXTINF:-1 group-title="Кино и сериалы",НТВ Хит
+http://194.28.153.84:81/udp/225.0.55.110:1234?denms.ru
+#EXTINF:-1 group-title="Кино и сериалы"  tvg-id="russky-detektiv",Русский Детектив
+http://194.28.153.84:81/udp/225.0.55.179:1234?denms.ru
+#EXTINF:-1 group-title="Кино и сериалы",Иллюзион +
+http://194.28.153.84:81/udp/225.0.55.188:1234?denms.ru
+#EXTINF:-1 group-title="Кино и сериалы",ЕВРОКИНО
+http://194.28.153.84:81/udp/225.0.55.189:1234?denms.ru
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="vip-megahit",VIP Megahit HD
+http://194.28.153.84:81/udp/225.0.56.3:1234?denms.ru
+#EXTINF:-1 group-title="Кино и сериалы",КИНО ТВ HD
+http://194.28.153.84:81/udp/225.0.56.4:1234?denms.ru
+#EXTINF:-1 group-title="Кино и сериалы",Fox HD
+http://194.28.153.84:81/udp/225.0.56.5:1234?denms.ru
+#EXTINF:-1 group-title="Кино и сериалы",Fox Life HD
+http://194.28.153.84:81/udp/225.0.56.6:1234?denms.ru
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="sony-tv",Sony ТВ HD
+http://194.28.153.84:81/udp/225.0.56.7:1234?denms.ru
+#EXTINF:-1 group-title="Кино и сериалы",Amedia 1 HD
+http://194.28.153.84:81/udp/225.0.56.9:1234?denms.ru
+#EXTINF:-1 group-title="Кино и сериалы",AMEDIA PREMIUM HD
+http://194.28.153.84:81/udp/225.0.56.10:1234?denms.ru
+#EXTINF:-1 group-title="Кино и сериалы",HOLLYWOOD HD
+http://194.28.153.84:81/udp/225.0.56.12:1234?denms.ru
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="vip-premiere",VIP Premiere HD
+http://194.28.153.84:81/udp/225.0.56.13:1234?denms.ru
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="vip-comedy",VIP Comedy HD
+http://194.28.153.84:81/udp/225.0.56.14:1234?denms.ru
+#EXTINF:-1 group-title="Кино и сериалы",Paramount comedy HD
+http://194.28.153.84:81/udp/225.0.56.15:1234?denms.ru
+#EXTINF:-1 group-title="Кино и сериалы",Дорама
+http://194.28.153.84:81/udp/225.0.56.34:1234?denms.ru
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="russky-roman",Русский Роман HD
+http://194.28.153.84:81/udp/225.0.56.47:1234?denms.ru
+#EXTINF:-1 group-title="Кино и сериалы",Paramount Channel HD
+http://194.28.153.84:81/udp/225.0.56.55:1234?denms.ru
+#EXTINF:-1 group-title="Кино и сериалы",Кинопремьера HD
+http://194.28.153.84:81/udp/225.0.56.58:1234?denms.ru
+#EXTINF:-1 group-title="Кино и сериалы",Amedia Hit HD
+http://194.28.153.84:81/udp/225.0.56.65:1234?denms.ru
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="vip-serial",VIP Serial HD
+http://194.28.153.84:81/udp/225.0.56.75:1234?denms.ru
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="tv1000-action",TV 1000 Action HD
+http://194.28.153.84:81/udp/225.0.56.76:1234?denms.ru
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="tv1000-russkoe-kino",TV 1000 РУССКОЕ КИНО HD
+http://194.28.153.84:81/udp/225.0.56.77:1234?denms.ru
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="tv1000",TV 1000 HD
+http://194.28.153.84:81/udp/225.0.56.78:1234?denms.ru
+#EXTINF:-1 group-title="Кино и сериалы",Дом кино Премиум HD
+http://194.28.153.84:81/udp/225.0.56.79:1234?denms.ru
+#EXTINF:-1 group-title="Кино и сериалы",Мужское кино
+http://194.28.153.84:81/udp/225.0.56.84:1234?denms.ru
+#EXTINF:-1 group-title="Кино и сериалы",Киномикс
+http://194.28.153.84:81/udp/225.0.56.95:1234?denms.ru
+#EXTINF:-1 group-title="Кино и сериалы",КИНОХИТ HD
+http://194.28.153.84:81/udp/225.0.56.97:1234?denms.ru
+#EXTINF:-1 group-title="Кино и сериалы",КИНОСЕМЬЯ HD
+http://194.28.153.84:81/udp/225.0.56.102:1234?denms.ru
+#EXTINF:-1 group-title="Кино и сериалы",КИНОСВИДАНИЕ HD
+http://194.28.153.84:81/udp/225.0.56.103:1234?denms.ru
+#EXTINF:-1 group-title="Кино и сериалы",Spike HD
+http://194.28.153.84:81/udp/225.0.56.105:1234?denms.ru
+#EXTINF:-1 group-title="Кино и сериалы",НСТ
+http://194.28.153.84:81/udp/225.0.55.76:1234?denms.ru
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="super",Супер
+http://194.28.153.84:81/udp/225.0.55.150:1234?denms.ru
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="russky-bestseller",Русский бестселлер
+http://194.28.153.84:81/udp/225.0.55.180:1234?denms.ru
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="sony-turbo",Sony Turbo
+http://194.28.153.84:81/udp/225.0.55.151:1234?denms.ru
+#EXTINF:-1 group-title="Кино и сериалы",Дом кино
+http://194.28.153.84:81/udp/225.0.55.23:1234?denms.ru
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="sony-scifi",Sony Sci-Fi
+http://194.28.153.84:81/udp/225.0.55.73:1234?denms.ru
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="zee-tv",Zee TV
+http://194.28.153.84:81/udp/225.0.55.25:1234?denms.ru
+#EXTINF:-1 group-title="Кино и сериалы",Cinema
+http://194.28.153.84:81/udp/225.0.55.115:1234?denms.ru
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="russky-illuzion",Русский иллюзион
+http://194.28.153.84:81/udp/225.0.55.185:1234?denms.ru
+#EXTINF:-1 group-title="Кино и сериалы",Bolt Россия
+http://194.28.153.84:81/udp/225.0.56.22:1234?denms.ru
+#EXTINF:-1 group-title="Кино и сериалы",Amedia 2
+http://194.28.153.84:81/udp/225.0.55.38:1234?denms.ru
+#EXTINF:-1 group-title="Кино и сериалы",КИНОКОМЕДИЯ
+http://194.28.153.84:81/udp/225.0.55.39:1234?denms.ru
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="star-cinema",Star Cinema Россия
+http://194.28.153.84:81/udp/225.0.56.54:1234?denms.ru
+#EXTINF:-1 group-title="Познавательные",Наука 2.0
+http://194.28.153.84:81/udp/225.0.55.13:1234?denms.ru
+#EXTINF:-1 group-title="Познавательные",МОЯ ПЛАНЕТА
+http://194.28.153.84:81/udp/225.0.55.18:1234?denms.ru
+#EXTINF:-1 group-title="Познавательные",Animal Planet
+http://194.28.153.84:81/udp/225.0.55.21:1234?denms.ru
+#EXTINF:-1 group-title="Познавательные",Da Vinci Learning
+http://194.28.153.84:81/udp/225.0.55.26:1234?denms.ru
+#EXTINF:-1 group-title="Познавательные" tvg-id="viasat-history",Viasat History
+http://194.28.153.84:81/udp/225.0.55.27:1234?denms.ru
+#EXTINF:-1 group-title="Познавательные" tvg-id="zhivi",Живи
+http://194.28.153.84:81/udp/225.0.55.62:1234?denms.ru
+#EXTINF:-1 group-title="Познавательные",ИНТЕР
+http://194.28.153.84:81/udp/225.0.55.109:1234?denms.ru
+#EXTINF:-1 group-title="Познавательные",ИСТОРИЯ
+http://194.28.153.84:81/udp/225.0.55.138:1234?denms.ru
+#EXTINF:-1 group-title="Познавательные",365 дней
+http://194.28.153.84:81/udp/225.0.55.152:1234?denms.ru
+#EXTINF:-1 group-title="Познавательные",ПЕРВЫЙ ВЕГЕТАРИАНСКИЙ
+http://194.28.153.84:81/udp/225.0.55.158:1234?denms.ru
+#EXTINF:-1 group-title="Познавательные",БОБЁР
+http://194.28.153.84:81/udp/225.0.55.190:1234?denms.ru
+#EXTINF:-1 group-title="Познавательные",КТО ЕСТЬ КТО
+http://194.28.153.84:81/udp/225.0.55.195:1234?denms.ru
+#EXTINF:-1 group-title="Познавательные",Galaxy TV
+http://194.28.153.84:81/udp/225.0.55.208:1234?denms.ru
+#EXTINF:-1 group-title="Познавательные",DocuBox HD
+http://194.28.153.84:81/udp/225.0.56.8:1234?denms.ru
+#EXTINF:-1 group-title="Познавательные" tvg-id="museum-hd",Museum
+http://194.28.153.84:81/udp/225.0.56.11:1234?denms.ru
+#EXTINF:-1 group-title="Познавательные",Победа
+http://194.28.153.84:81/udp/225.0.56.17:1234?denms.ru
+#EXTINF:-1 group-title="Познавательные",TLC HD
+http://194.28.153.84:81/udp/225.0.56.18:1234?denms.ru
+#EXTINF:-1 group-title="Познавательные",myZen.tv
+http://194.28.153.84:81/udp/225.0.56.21:1234?denms.ru
+#EXTINF:-1 group-title="Познавательные",HDL
+http://194.28.153.84:81/udp/225.0.56.39:1234?denms.ru
+#EXTINF:-1 group-title="Познавательные",INSIGHT UHD
+http://194.28.153.84:81/udp/225.0.56.40:1234?denms.ru
+#EXTINF:-1 group-title="Познавательные" tvg-id="1045926854",IZ.RU
+http://194.28.153.84:81/udp/225.0.56.48:1234?denms.ru
+#EXTINF:-1 group-title="Познавательные" tvg-id="v-mire-zhivotnyx-hd",В мире животных HD
+http://194.28.153.84:81/udp/225.0.56.73:1234?denms.ru
+#EXTINF:-1 group-title="Познавательные" tvg-id="tvoy-dom",Твой Дом HD
+http://194.28.153.84:81/udp/225.0.56.83:1234?denms.ru
+#EXTINF:-1 group-title="Познавательные" tvg-id="travel-adventure",Travel+Adventure HD
+http://194.28.153.84:81/udp/225.0.56.88:1234?denms.ru
+#EXTINF:-1 group-title="Познавательные",ПЛАНЕТА HD
+http://194.28.153.84:81/udp/225.0.56.91:1234?denms.ru
+#EXTINF:-1 group-title="Познавательные" tvg-id="viasat-nature",Viasat Nature
+http://194.28.153.84:81/udp/225.0.56.100:1234?denms.ru
+#EXTINF:-1 group-title="Познавательные",Доктор
+http://194.28.153.84:81/udp/225.0.56.104:1234?denms.ru
+#EXTINF:-1 group-title="Познавательные" tvg-id="zagorodnaya-zhizn",Загородная Жизнь
+http://194.28.153.84:81/udp/225.0.55.17:1234?denms.ru
+#EXTINF:-1 group-title="Познавательные",Аист
+http://194.28.153.84:81/udp/225.0.59.21:1234?denms.ru
+#EXTINF:-1 group-title="Познавательные",Поехали!
+http://194.28.153.84:81/udp/225.0.55.159:1234?denms.ru
+#EXTINF:-1 group-title="Познавательные" tvg-id="zhivaya-planeta",Живая планета
+http://194.28.153.84:81/udp/225.0.55.148:1234?denms.ru
+#EXTINF:-1 group-title="Познавательные",Ностальгия
+http://194.28.153.84:81/udp/225.0.55.22:1234?denms.ru
+#EXTINF:-1 group-title="Познавательные",Nat Geo Wild HD
+http://194.28.153.84:81/udp/225.0.56.25:1234?denms.ru
+#EXTINF:-1 group-title="Познавательные",Discovery Science HD
+http://194.28.153.84:81/udp/225.0.56.24:1234?denms.ru
+#EXTINF:-1 group-title="Познавательные",Discovery Channel HD
+http://194.28.153.84:81/udp/225.0.56.23:1234?denms.ru
+#EXTINF:-1 group-title="Познавательные" tvg-id="viasat-explore",Viasat Explore
+http://194.28.153.84:81/udp/225.0.55.47:1234?denms.ru
+#EXTINF:-1 group-title="Познавательные" tvg-id="viasat-nature",Viasat Nature
+http://194.28.153.84:81/udp/225.0.55.57:1234?denms.ru
+#EXTINF:-1 group-title="Познавательные",Приключения HD
+http://194.28.153.84:81/udp/225.0.56.28:1234?denms.ru
+#EXTINF:-1 group-title="Познавательные",National Geographic HD
+http://194.28.153.84:81/udp/225.0.56.30:1234?denms.ru
+#EXTINF:-1 group-title="Музыка" tvg-id="tnt-music",ТНТ Music
+http://194.28.153.84:81/udp/225.0.55.8:1234?denms.ru
+#EXTINF:-1 group-title="Музыка" tvg-id="ru-tv",RU.TV
+http://194.28.153.84:81/udp/225.0.55.9:1234?denms.ru
+#EXTINF:-1 group-title="Музыка",Europa_Plus TV
+http://194.28.153.84:81/udp/225.0.55.61:1234?denms.ru
+#EXTINF:-1 group-title="Музыка" tvg-id="o2tv",О2ТВ
+http://194.28.153.84:81/udp/225.0.55.72:1234?denms.ru
+#EXTINF:-1 group-title="Музыка",Наше ТВ
+http://194.28.153.84:81/udp/225.0.55.132:1234?denms.ru
+#EXTINF:-1 group-title="Музыка",Муз ТВ
+http://194.28.153.84:81/udp/225.0.59.20:1234?denms.ru
+#EXTINF:-1 group-title="Музыка" tvg-id="zhara",Жара
+http://194.28.153.84:81/udp/225.0.55.135:1234?denms.ru
+#EXTINF:-1 group-title="Музыка",ЛЯ-МИНОР
+http://194.28.153.84:81/udp/225.0.55.161:1234?denms.ru
+#EXTINF:-1 group-title="Музыка",Bridge TV Classic
+http://194.28.153.84:81/udp/225.0.55.197:1234?denms.ru
+#EXTINF:-1 group-title="Музыка",Bridge TV
+http://194.28.153.84:81/udp/225.0.55.216:1234?denms.ru
+#EXTINF:-1 group-title="Музыка",Bridge TV Русский Хит
+http://194.28.153.84:81/udp/225.0.55.217:1234?denms.ru
+#EXTINF:-1 group-title="Музыка",MTV HD
+http://194.28.153.84:81/udp/225.0.56.16:1234?denms.ru
+#EXTINF:-1 group-title="Музыка",Mezzo Live HD
+http://194.28.153.84:81/udp/225.0.56.46:1234?denms.ru
+#EXTINF:-1 group-title="Музыка",Муз ТВ
+http://194.28.153.84:81/udp/225.0.59.20:1234?denms.ru
+#EXTINF:-1 group-title="Мужские",ДРАЙВ
+http://194.28.153.84:81/udp/225.0.55.134:1234?denms.ru
+#EXTINF:-1 group-title="Мужские",Матч Боец
+http://194.28.153.84:81/udp/225.0.55.12:1234?denms.ru
+#EXTINF:-1 group-title="Мужские",АВТО ПЛЮС
+http://194.28.153.84:81/udp/225.0.55.30:1234?denms.ru
+#EXTINF:-1 group-title="Мужские",Бокс ТВ
+http://194.28.153.84:81/udp/225.0.55.50:1234?denms.ru
+#EXTINF:-1 group-title="Мужские",ОРУЖИЕ
+http://194.28.153.84:81/udp/225.0.55.106:1234?denms.ru
+#EXTINF:-1 group-title="Мужские",Дикая охота HD
+http://194.28.153.84:81/udp/225.0.56.29:1234?denms.ru
+#EXTINF:-1 group-title="Мужские",ОХОТНИК И РЫБОЛОВ HD
+http://194.28.153.84:81/udp/225.0.56.31:1234?denms.ru
+#EXTINF:-1 group-title="Мужские",M-1 Global
+http://194.28.153.84:81/udp/225.0.56.43:1234?denms.ru
+#EXTINF:-1 group-title="Мужские",Авто24 HD
+http://194.28.153.84:81/udp/225.0.56.51:1234?denms.ru
+#EXTINF:-1 group-title="Мужские",Дикая рыбалка HD
+http://194.28.153.84:81/udp/225.0.56.96:1234?denms.ru
+#EXTINF:-1 group-title="Мужские" tvg-id="texno-24",Техно 24
+http://194.28.153.84:81/udp/225.0.55.207:1234?denms.ru
+#EXTINF:-1 group-title="Мужские" tvg-id="russian-extreme-uhd",Русский экстрим HD
+http://194.28.153.84:81/udp/225.0.56.64:1234?denms.ru
+#EXTINF:-1 group-title="Спортивные",МАТЧ! СТРАНА
+http://194.28.153.84:81/udp/225.0.55.31:1234?denms.ru
+#EXTINF:-1 group-title="Спортивные",КХЛ ТВ
+http://194.28.153.84:81/udp/225.0.55.42:1234?denms.ru
+#EXTINF:-1 group-title="Спортивные",EUROSPORT 1 HD
+http://194.28.153.84:81/udp/225.0.56.33:1234?denms.ru
+#EXTINF:-1 group-title="Спортивные",МАТЧ! АРЕНА HD
+http://194.28.153.84:81/udp/225.0.56.35:1234?denms.ru
+#EXTINF:-1 group-title="Спортивные",МАТЧ! HD
+http://194.28.153.84:81/udp/225.0.56.37:1234?denms.ru
+#EXTINF:-1 group-title="Спортивные",КХЛ HD
+http://194.28.153.84:81/udp/225.0.56.38:1234?denms.ru
+#EXTINF:-1 group-title="Спортивные",Моторспорт ТВ
+http://194.28.153.84:81/udp/225.0.56.44:1234?denms.ru
+#EXTINF:-1 group-title="Спортивные",Eurosport 2 HD
+http://194.28.153.84:81/udp/225.0.56.53:1234?denms.ru
+#EXTINF:-1 group-title="Спортивные",МАТЧ! ФУТБОЛ 1 HD
+http://194.28.153.84:81/udp/225.0.56.60:1234?denms.ru
+#EXTINF:-1 group-title="Спортивные",МАТЧ! ИГРА HD
+http://194.28.153.84:81/udp/225.0.56.61:1234?denms.ru
+#EXTINF:-1 group-title="Спортивные",МАТЧ! ФУТБОЛ 2 HD
+http://194.28.153.84:81/udp/225.0.56.62:1234?denms.ru
+#EXTINF:-1 group-title="Спортивные" tvg-id="viasat-sport-hd",Viasat Sport HD
+http://194.28.153.84:81/udp/225.0.56.68:1234?denms.ru
+#EXTINF:-1 group-title="Спортивные",МАТЧ! ФУТБОЛ 3 HD
+http://194.28.153.84:81/udp/225.0.56.69:1234?denms.ru
+#EXTINF:-1 group-title="Спортивные",Матч! Премьер
+http://194.28.153.84:81/udp/225.0.56.94:1234?denms.ru
+#EXTINF:-1 group-title="Спортивные",Матч ТВ
+http://194.28.153.84:81/udp/225.0.59.3:1234?denms.ru
+#EXTINF:-1 group-title="Детские",TIJI
+http://194.28.153.84:81/udp/225.0.55.16:1234?denms.ru
+#EXTINF:-1 group-title="Детские",Disney
+http://194.28.153.84:81/udp/225.0.55.55:1234?denms.ru
+#EXTINF:-1 group-title="Детские",ДЕТСКИЙ
+http://194.28.153.84:81/udp/225.0.55.58:1234?denms.ru
+#EXTINF:-1 group-title="Детские",МАМА
+http://194.28.153.84:81/udp/225.0.55.66:1234?denms.ru
+#EXTINF:-1 group-title="Детские",CARTOON NETWORK
+http://194.28.153.84:81/udp/225.0.55.95:1234?denms.ru
+#EXTINF:-1 group-title="Детские",JIMJAM
+http://194.28.153.84:81/udp/225.0.55.96:1234?denms.ru
+#EXTINF:-1 group-title="Детские",Gulli
+http://194.28.153.84:81/udp/225.0.55.97:1234?denms.ru
+#EXTINF:-1 group-title="Детские",BABY TV
+http://194.28.153.84:81/udp/225.0.55.98:1234?denms.ru
+#EXTINF:-1 group-title="Детские",Boomerang
+http://194.28.153.84:81/udp/225.0.55.99:1234?denms.ru
+#EXTINF:-1 group-title="Детские" tvg-id="radost-moya",Радость моя
+http://194.28.153.84:81/udp/225.0.55.100:1234?denms.ru
+#EXTINF:-1 group-title="Детские" tvg-id="ryzhy",Рыжий
+http://194.28.153.84:81/udp/225.0.55.101:1234?denms.ru
+#EXTINF:-1 group-title="Детские",МультиМузыка
+http://194.28.153.84:81/udp/225.0.55.119:1234?denms.ru
+#EXTINF:-1 group-title="Детские",МУЛЬТ
+http://194.28.153.84:81/udp/225.0.55.126:1234?denms.ru
+#EXTINF:-1 group-title="Детские",Nick Jr
+http://194.28.153.84:81/udp/225.0.55.149:1234?denms.ru
+#EXTINF:-1 group-title="Детские",О!
+http://194.28.153.84:81/udp/225.0.55.199:1234?denms.ru
+#EXTINF:-1 group-title="Детские",Nickelodeon HD
+http://194.28.153.84:81/udp/225.0.56.41:1234?denms.ru
+#EXTINF:-1 group-title="Детские" tvg-id="tlum-hd",Тлум HD
+http://194.28.153.84:81/udp/225.0.56.57:1234?denms.ru
+#EXTINF:-1 group-title="Детские",Карусель
+http://194.28.153.84:81/udp/225.0.59.8:1234?denms.ru
+#EXTINF:-1 group-title="Детские",Ani
+http://194.28.153.84:81/udp/225.0.55.191:1234?denms.ru
+#EXTINF:-1 group-title="Детские",Nickelodeon
+http://194.28.153.84:81/udp/225.0.55.19:1234?denms.ru
+#EXTINF:-1 group-title="Развлекательные",КВН ТВ
+http://194.28.153.84:81/udp/225.0.55.162:1234?denms.ru
+#EXTINF:-1 group-title="Развлекательные" tvg-id="sarafan",Сарафан
+http://194.28.153.84:81/udp/225.0.55.194:1234?denms.ru
+#EXTINF:-1 group-title="Развлекательные"  tvg-id="world-fashion-channel",WORLD FASHION HD
+http://194.28.153.84:81/udp/225.0.56.71:1234?denms.ru
+#EXTINF:-1 group-title="Развлекательные"  tvg-id="english-club-tv",English Сlub HD
+http://194.28.153.84:81/udp/225.0.56.72:1234?denms.ru
+#EXTINF:-1 group-title="Развлекательные" tvg-id="sts",СТС
+http://194.28.153.84:81/udp/225.0.59.13:1234?denms.ru
+#EXTINF:-1 group-title="Развлекательные"  tvg-id="sts",CTC
+http://194.28.153.84:81/udp/225.0.59.25:1234?denms.ru
+#EXTINF:-1 group-title="Развлекательные",Пятница
+http://31.43.201.227/udp/225.0.59.16:1234?denms.ru
+#EXTINF:-1 group-title="Развлекательные",Че
+http://194.28.153.84:81/udp/225.0.55.113:1234?denms.ru
+#EXTINF:-1 group-title="Развлекательные"  tvg-id="sts-love",СТС Love
+http://194.28.153.84:81/udp/225.0.55.5:1234?denms.ru
+#EXTINF:-1 group-title="Развлекательные"  tvg-id="tnt4",ТНТ4
+http://194.28.153.84:81/udp/225.0.55.81:1234?denms.ru
+#EXTINF:-1 group-title="Развлекательные"  tvg-id="yu",Ю
+http://194.28.153.84:81/udp/225.0.55.123:1234?denms.ru
+#EXTINF:-1 group-title="Развлекательные"  tvg-id="2na2",2x2
+http://194.28.153.84:81/udp/225.0.55.51:1234?denms.ru
+#EXTINF:-1 group-title="Национальные",БСТ
+http://194.28.153.84:81/udp/225.0.55.7:1234?denms.ru
+#EXTINF:-1 group-title="Национальные" tvg-id="tnv-planeta",ТНВ-Планета
+http://194.28.153.84:81/udp/225.0.55.24:1234?denms.ru
+#EXTINF:-1 group-title="Национальные" tvg-id="tnv-tatarstan",ТНВ-Татарстан
+http://194.28.153.84:81/udp/225.0.55.36:1234?denms.ru
+#EXTINF:-1 group-title="Национальные",БЕЛАРУСЬ-24
+http://194.28.153.84:81/udp/225.0.55.40:1234?denms.ru
+#EXTINF:-1 group-title="Национальные",ГТРК ГРОЗНЫЙ
+http://194.28.153.84:81/udp/225.0.55.108:1234?denms.ru
+#EXTINF:-1 group-title="Национальные",KAZAKH TV
+http://194.28.153.84:81/udp/225.0.55.111:1234?denms.ru
+#EXTINF:-1 group-title="Национальные" tvg-id="shant-premium-hd",Shant Premium HD
+http://194.28.153.84:81/udp/225.0.56.90:1234?denms.ru
+#EXTINF:-1 group-title="Телемагазины",Shop24
+http://194.28.153.84:81/udp/225.0.55.145:1234?denms.ru
+#EXTINF:-1 group-title="Телемагазины" tvg-id="shop-n-show",Shop and Show
+http://194.28.153.84:81/udp/225.0.55.221:1234?denms.ru
+#EXTINF:-1 group-title="Телемагазины",Дисконт
+http://194.28.153.84:81/udp/225.0.55.147:1234?denms.ru
+#EXTINF:-1 group-title="Телемагазины" tvg-id="shopping-live",Shopping Live
+http://194.28.153.84:81/udp/225.0.55.32:1234?denms.ru
+#EXTINF:-1 group-title="Телемагазины" tvg-id="yuvelirochka",Ювелирочка
+http://194.28.153.84:81/udp/225.0.55.34:1234?denms.ru
+#EXTINF:-1 group-title="Региональные",Актис (ангарск)
+http://194.28.153.84:81/udp/226.10.10.46:1234?denms.ru
+#EXTINF:-1 group-title="Региональные"  tvg-id="tivisi-hd",ТиВиСи HD
+http://194.28.153.84:81/udp/225.0.59.26:1234?denms.ru
+#EXTINF:-1 group-title="Региональные",Наша Сибирь
+http://194.28.153.84:81/udp/225.0.56.27:1234?denms.ru
+#EXTINF:-1 group-title="Региональные",Актис (ангарск)
+http://194.28.153.84:81/udp/225.0.59.22:1234?denms.ru
+#EXTINF:-1 group-title="Региональные" tvg-id="rentv" tvg-shift=+5,Рен ТВ Иркутск
+http://194.28.153.84:81/udp/225.0.59.24:1234?denms.ru
+#EXTINF:-1 group-title="Религиозные" tvg-id="soyuz",Союз
+http://194.28.153.84:81/udp/225.0.55.33:1234?denms.ru
+#EXTINF:-1 group-title="Религиозные" tvg-id="spas",СПАС
+http://194.28.153.84:81/udp/225.0.59.12:1234?denms.ru
+#EXTINF:-1 group-title="Кухня" tvg-id="telekafe",Телекафе
+http://194.28.153.84:81/udp/225.0.55.84:1234?denms.ru
+#EXTINF:-1 group-title="Кухня" ,Кухня ТВ
+http://194.28.153.84:81/udp/225.0.55.15:1234?denms.ru
+#EXTINF:-1 group-title="Компьютерные игры",Е
+http://194.28.153.84:81/udp/225.0.56.52:1234?denms.ru
+#EXTINF:-1 group-title="18+",Hustler HD
+http://194.28.153.84:81/udp/225.0.56.50:1234?denms.ru
