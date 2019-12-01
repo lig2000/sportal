@@ -18,6 +18,8 @@ http://persik.by/stream/2102/351000/118.m3u8
 http://persik.by/stream/2102/351000/148.m3u8
 #EXTINF:-1 ,Беларусь 3
 http://persik.by/stream/2102/351000/883.m3u8
+#EXTINF:-1 ,Беларусь 4. Гомель
+http://persik.by/stream/2102/351000/10683.m3u8
 #EXTINF:-1 ,Беларусь 1 HD
 http://persik.by/stream/2102/351000/10405.m3u8
 #EXTINF:-1 ,Беларусь 2 HD
@@ -34,14 +36,7 @@ http://persik.by/stream/2102/351000/700.m3u8
 http://persik.by/stream//2102/351000/10712.m3u8
 
 
-#EXTINF:-1 ,тест
-http://persik.by/stream/2102/351000/351.m3u8
-#EXTINF:-1 ,тест
-http://persik.by/stream/2102/351000/394.m3u8
-#EXTINF:-1 ,test
-http://persik.by/stream/2102/351000/316.m3u8
-#EXTINF:-1 ,Русская ночь HD
-http://persik.by/stream/2102/351000/296.m3u8
+
 #EXTINF:-1 ,1HD Music Television
 http://persik.by/stream/2102/351000/10423.m3u8
 #EXTINF:-1 ,Bridge by
@@ -66,7 +61,7 @@ http://persik.by/stream/2102/351000/454.m3u8
 http://persik.by/stream/2102/351000/10495.m3u8
 #EXTINF:-1 ,Outdoor Сhannel
 http://persik.by/stream/2102/351000/10246.m3u8
-#EXTINF:-1 ,N/A
+#EXTINF:-1 ,RU TV (Беларусь)
 http://persik.by/stream/2102/351000/10213.m3u8
 #EXTINF:-1 ,TheWolfstalker
 http://persik.by/stream/2102/351000/10494.m3u8
@@ -713,8 +708,7 @@ http://persik.by/stream/2102/351000/10587.m3u8
 http://persik.by/stream/2102/351000/10599.m3u8
 #EXTINF:-1 ,Vitalik Ignatyuk
 http://persik.by/stream/2102/351000/10563.m3u8
-#EXTINF:-1 ,Беларусь 4. Гомель
-http://persik.by/stream/2102/351000/10683.m3u8
+
 #EXTINF:-1 ,Братья Рыбаки
 http://persik.by/stream/2102/351000/10636.m3u8
 #EXTINF:-1 ,В поиске кладов!
@@ -921,3 +915,5 @@ http://persik.by/stream/2102/351000/10710.m3u8
 http://persik.by/stream/2102/351000/10709.m3u8
 #EXTINF:-1 ,Приключения HD
 http://persik.by/stream/2102/351000/10707.m3u8
+#EXTINF:-1 ,Русская ночь HD
+http://persik.by/stream/2102/351000/296.m3u8
