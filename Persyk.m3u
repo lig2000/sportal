@@ -1,28 +1,39 @@
 #EXTM3U
+#EXTINF:-1 ,Первый Канал
+http://persik.by/stream/2102/351000/8.m3u8
+#EXTINF:-1 ,Россия 1
+http://persik.by/stream/2102/351000/9.m3u8
 #EXTINF:-1 ,НТВ
 http://persik.by/stream/2102/351000/10.m3u8
-#EXTINF:-1 ,Беларусь 24 HD
-http://persik.by/stream//2102/351000/10712.m3u8
+#EXTINF:-1 ,НТВ-Беларусь
+http://persik.by/stream/2102/351000/699.m3u8
+
 #EXTINF:-1 ,тест
 http://persik.by/stream//2102/351000/10659.m3u8
+
+
 #EXTINF:-1 ,Беларусь 1
 http://persik.by/stream/2102/351000/118.m3u8
+#EXTINF:-1 ,Беларусь 2
+http://persik.by/stream/2102/351000/148.m3u8
+#EXTINF:-1 ,Беларусь 3
+http://persik.by/stream/2102/351000/883.m3u8
+#EXTINF:-1 ,Беларусь 1 HD
+http://persik.by/stream/2102/351000/10405.m3u8
+#EXTINF:-1 ,Беларусь 2 HD
+http://persik.by/stream/2102/351000/10406.m3u8
+#EXTINF:-1 ,Беларусь 3 HD
+http://persik.by/stream/2102/351000/10407.m3u8
 #EXTINF:-1 ,ОНТ
 http://persik.by/stream/2102/351000/111.m3u8
 #EXTINF:-1 ,СТВ
 http://persik.by/stream/2102/351000/115.m3u8
 #EXTINF:-1 ,РТР-Беларусь
 http://persik.by/stream/2102/351000/700.m3u8
-#EXTINF:-1 ,НТВ-Беларусь
-http://persik.by/stream/2102/351000/699.m3u8
-#EXTINF:-1 ,Беларусь 2
-http://persik.by/stream/2102/351000/148.m3u8
-#EXTINF:-1 ,Беларусь 3
-http://persik.by/stream/2102/351000/883.m3u8
-#EXTINF:-1 ,Первый Канал
-http://persik.by/stream/2102/351000/8.m3u8
-#EXTINF:-1 ,Россия 1
-http://persik.by/stream/2102/351000/9.m3u8
+#EXTINF:-1 ,Беларусь 24 HD
+http://persik.by/stream//2102/351000/10712.m3u8
+
+
 #EXTINF:-1 ,тест
 http://persik.by/stream/2102/351000/351.m3u8
 #EXTINF:-1 ,тест
@@ -69,12 +80,7 @@ http://persik.by/stream/2102/351000/924.m3u8
 http://persik.by/stream/2102/351000/311.m3u8
 #EXTINF:-1 ,Бабушка Шошо
 http://persik.by/stream/2102/351000/10492.m3u8
-#EXTINF:-1 ,Беларусь 1 HD
-http://persik.by/stream/2102/351000/10405.m3u8
-#EXTINF:-1 ,Беларусь 2 HD
-http://persik.by/stream/2102/351000/10406.m3u8
-#EXTINF:-1 ,Беларусь 3 HD
-http://persik.by/stream/2102/351000/10407.m3u8
+
 #EXTINF:-1 ,Би-Би-Знайки
 http://persik.by/stream/2102/351000/10497.m3u8
 #EXTINF:-1 ,Вопросы и ответы
