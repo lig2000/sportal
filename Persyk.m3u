@@ -193,6 +193,8 @@ http://persik.by/stream/2102/351000/309.m3u8
 http://persik.by/stream/2102/351000/91.m3u8
 #EXTINF:-1 ,Матч! ТВ
 http://persik.by/stream/2102/351000/1077.m3u8
+#EXTINF:-1 ,Боец
+http://persik.by/stream/2102/351000/310.m3u8
 #EXTINF:-1 ,Шансон ТВ
 http://persik.by/stream/2102/351000/1084.m3u8
 
@@ -226,7 +228,8 @@ http://persik.by/stream/2102/351000/384.m3u8
 http://persik.by/stream/2102/351000/11.m3u8
 #EXTINF:-1 ,Муз ТВ
 http://persik.by/stream/2102/351000/10207.m3u8
-
+#EXTINF:-1 ,Jazz
+http://persik.by/stream/2102/351000/10488.m3u8
 #EXTINF:-1 ,CBS Reality
 http://persik.by/stream/2102/351000/10229.m3u8
 #EXTINF:-1 ,Euronews
@@ -236,8 +239,7 @@ http://persik.by/stream/2102/351000/10265.m3u8
 
 #EXTINF:-1 ,History
 http://persik.by/stream/2102/351000/902.m3u8
-#EXTINF:-1 ,Jazz
-http://persik.by/stream/2102/351000/10488.m3u8
+
 
 #EXTINF:-1 ,Outdoor Сhannel
 http://persik.by/stream/2102/351000/10246.m3u8
@@ -373,8 +375,7 @@ http://persik.by/stream/2102/351000/178.m3u8
 
 #EXTINF:-1 ,365 дней
 http://persik.by/stream/2102/351000/279.m3u8
-#EXTINF:-1 ,Боец
-http://persik.by/stream/2102/351000/310.m3u8
+
 #EXTINF:-1 ,Иллюзион
 http://persik.by/stream/2102/351000/327.m3u8
 #EXTINF:-1 ,Россия 24
