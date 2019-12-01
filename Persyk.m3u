@@ -159,55 +159,6 @@ http://persik.by/stream/2102/351000/10541.m3u8
 http://persik.by/stream/2102/351000/10518.m3u8
 #EXTINF:-1 ,Малыш ТВ
 http://persik.by/stream/2102/351000/10579.m3u8
-
-#EXTINF:-1 ,1HD Music Television
-http://persik.by/stream/2102/351000/10423.m3u8
-#EXTINF:-1 ,Bridge by
-http://persik.by/stream/2102/351000/409.m3u8
-#EXTINF:-1 ,Bridge by Русский хит
-http://persik.by/stream/2102/351000/668.m3u8
-#EXTINF:-1 ,CBS Reality
-http://persik.by/stream/2102/351000/10229.m3u8
-#EXTINF:-1 ,Euronews
-http://persik.by/stream/2102/351000/37.m3u8
-#EXTINF:-1 ,Euronews (Eng)
-http://persik.by/stream/2102/351000/10265.m3u8
-#EXTINF:-1 ,Europa Plus by
-http://persik.by/stream/2102/351000/682.m3u8
-#EXTINF:-1 ,History
-http://persik.by/stream/2102/351000/902.m3u8
-#EXTINF:-1 ,Jazz
-http://persik.by/stream/2102/351000/10488.m3u8
-
-#EXTINF:-1 ,Outdoor Сhannel
-http://persik.by/stream/2102/351000/10246.m3u8
-#EXTINF:-1 ,RU TV (Беларусь)
-http://persik.by/stream/2102/351000/10213.m3u8
-#EXTINF:-1 ,TheWolfstalker
-http://persik.by/stream/2102/351000/10494.m3u8
-#EXTINF:-1 ,THT Music
-http://persik.by/stream/2102/351000/10247.m3u8
-#EXTINF:-1 ,ZooПарк
-http://persik.by/stream/2102/351000/331.m3u8
-#EXTINF:-1 ,Авто 24
-http://persik.by/stream/2102/351000/924.m3u8
-#EXTINF:-1 ,Авто Плюс
-http://persik.by/stream/2102/351000/311.m3u8
-#EXTINF:-1 ,Бабушка Шошо
-http://persik.by/stream/2102/351000/10492.m3u8
-
-#EXTINF:-1 ,Би-Би-Знайки
-http://persik.by/stream/2102/351000/10497.m3u8
-#EXTINF:-1 ,Вопросы и ответы
-http://persik.by/stream/2102/351000/603.m3u8
-
-#EXTINF:-1 ,Домашние животные
-http://persik.by/stream/2102/351000/601.m3u8
-#EXTINF:-1 ,Драйв
-http://persik.by/stream/2102/351000/241.m3u8
-#EXTINF:-1 ,Здоровое ТВ
-http://persik.by/stream/2102/351000/242.m3u8
-
 #EXTINF:-1 ,КХЛ HD
 http://persik.by/stream/2102/351000/10242.m3u8
 #EXTINF:-1 ,КХЛ ТВ
@@ -232,9 +183,90 @@ http://persik.by/stream/2102/351000/10267.m3u8
 http://persik.by/stream/2102/351000/10218.m3u8
 #EXTINF:-1 ,Матч! Футбол 3 HD
 http://persik.by/stream/2102/351000/10268.m3u8
-
-#EXTINF:-1 ,Наш футбол
+#EXTINF:-1 ,Матч! Премьер
 http://persik.by/stream/2102/351000/284.m3u8
+#EXTINF:-1 ,Спорт 1
+http://persik.by/stream/2102/351000/270.m3u8
+#EXTINF:-1 ,Спорт 2
+http://persik.by/stream/2102/351000/309.m3u8
+#EXTINF:-1 ,Спорт 2 Украина
+http://persik.by/stream/2102/351000/91.m3u8
+#EXTINF:-1 ,Матч! ТВ
+http://persik.by/stream/2102/351000/1077.m3u8
+#EXTINF:-1 ,Шансон ТВ
+http://persik.by/stream/2102/351000/1084.m3u8
+
+#EXTINF:-1 ,1HD Music Television
+http://persik.by/stream/2102/351000/10423.m3u8
+#EXTINF:-1 ,Bridge by
+http://persik.by/stream/2102/351000/409.m3u8
+#EXTINF:-1 ,Bridge by Русский хит
+http://persik.by/stream/2102/351000/668.m3u8
+#EXTINF:-1 ,Europa Plus by
+http://persik.by/stream/2102/351000/682.m3u8
+#EXTINF:-1 ,THT Music
+http://persik.by/stream/2102/351000/10247.m3u8
+#EXTINF:-1 ,RU TV (Беларусь)
+http://persik.by/stream/2102/351000/10213.m3u8
+#EXTINF:-1 ,MTV HITS
+http://persik.by/stream/2102/351000/10208.m3u8
+#EXTINF:-1 ,MTV
+http://persik.by/stream/2102/351000/10226.m3u8
+#EXTINF:-1 ,MTV Rocks
+http://persik.by/stream/2102/351000/10227.m3u8
+#EXTINF:-1 ,ЖАРА by
+http://persik.by/stream/2102/351000/10286.m3u8
+#EXTINF:-1 ,MTV LIVE HD MUSICA
+http://persik.by/stream/2102/351000/10289.m3u8
+#EXTINF:-1 ,RU by MUSICA
+http://persik.by/stream/2102/351000/10261.m3u8
+#EXTINF:-1 ,ЖАРА MUSICA
+http://persik.by/stream/2102/351000/384.m3u8
+#EXTINF:-1 ,Жара
+http://persik.by/stream/2102/351000/11.m3u8
+#EXTINF:-1 ,Муз ТВ
+http://persik.by/stream/2102/351000/10207.m3u8
+
+#EXTINF:-1 ,CBS Reality
+http://persik.by/stream/2102/351000/10229.m3u8
+#EXTINF:-1 ,Euronews
+http://persik.by/stream/2102/351000/37.m3u8
+#EXTINF:-1 ,Euronews (Eng)
+http://persik.by/stream/2102/351000/10265.m3u8
+
+#EXTINF:-1 ,History
+http://persik.by/stream/2102/351000/902.m3u8
+#EXTINF:-1 ,Jazz
+http://persik.by/stream/2102/351000/10488.m3u8
+
+#EXTINF:-1 ,Outdoor Сhannel
+http://persik.by/stream/2102/351000/10246.m3u8
+
+#EXTINF:-1 ,TheWolfstalker
+http://persik.by/stream/2102/351000/10494.m3u8
+
+#EXTINF:-1 ,ZooПарк
+http://persik.by/stream/2102/351000/331.m3u8
+#EXTINF:-1 ,Авто 24
+http://persik.by/stream/2102/351000/924.m3u8
+#EXTINF:-1 ,Авто Плюс
+http://persik.by/stream/2102/351000/311.m3u8
+#EXTINF:-1 ,Бабушка Шошо
+http://persik.by/stream/2102/351000/10492.m3u8
+
+#EXTINF:-1 ,Би-Би-Знайки
+http://persik.by/stream/2102/351000/10497.m3u8
+#EXTINF:-1 ,Вопросы и ответы
+http://persik.by/stream/2102/351000/603.m3u8
+
+#EXTINF:-1 ,Домашние животные
+http://persik.by/stream/2102/351000/601.m3u8
+#EXTINF:-1 ,Драйв
+http://persik.by/stream/2102/351000/241.m3u8
+#EXTINF:-1 ,Здоровое ТВ
+http://persik.by/stream/2102/351000/242.m3u8
+
+
 #EXTINF:-1 ,ОНТ HD
 http://persik.by/stream/2102/351000/10409.m3u8
 #EXTINF:-1 ,Охота и рыбалка
@@ -258,10 +290,7 @@ http://persik.by/stream/2102/351000/10430.m3u8
 http://persik.by/stream/2102/351000/350.m3u8
 #EXTINF:-1 ,Союз
 http://persik.by/stream/2102/351000/235.m3u8
-#EXTINF:-1 ,Спорт 1
-http://persik.by/stream/2102/351000/270.m3u8
-#EXTINF:-1 ,Спорт 2
-http://persik.by/stream/2102/351000/309.m3u8
+
 #EXTINF:-1 ,СТВ HD
 http://persik.by/stream/2102/351000/10410.m3u8
 #EXTINF:-1 ,Сундучок Историй
@@ -277,10 +306,7 @@ http://persik.by/stream/2102/351000/10235.m3u8
 
 #EXTINF:-1 ,Europa
 http://persik.by/stream/2102/351000/10260.m3u8
-#EXTINF:-1 ,Mby HITS
-http://persik.by/stream/2102/351000/10208.m3u8
-#EXTINF:-1 ,JARA by
-http://persik.by/stream/2102/351000/10286.m3u8
+
 #EXTINF:-1 ,Nat Geo HD
 http://persik.by/stream/2102/351000/10243.m3u8
 #EXTINF:-1 ,Kukhnya by
@@ -298,14 +324,7 @@ http://persik.by/stream/2102/351000/511.m3u8
 #EXTINF:-1 ,НАШ Футбол ESPORTE
 http://persik.by/stream/2102/351000/10264.m3u8
 
-#EXTINF:-1 ,Mby LIVE HD MUSICA
-http://persik.by/stream/2102/351000/10289.m3u8
-#EXTINF:-1 ,RU by MUSICA
-http://persik.by/stream/2102/351000/10261.m3u8
-#EXTINF:-1 ,ЖАРА MUSICA
-http://persik.by/stream/2102/351000/384.m3u8
-#EXTINF:-1 ,Жара
-http://persik.by/stream/2102/351000/11.m3u8
+
 
 #EXTINF:-1 ,Россия К
 http://persik.by/stream/2102/351000/15.m3u8
@@ -334,8 +353,7 @@ http://persik.by/stream/2102/351000/84.m3u8
 http://persik.by/stream/2102/351000/88.m3u8
 #EXTINF:-1 ,Bloomberg
 http://persik.by/stream/2102/351000/90.m3u8
-#EXTINF:-1 ,Спорт 2 Украина
-http://persik.by/stream/2102/351000/91.m3u8
+
 #EXTINF:-1 ,Planeta RTR
 http://persik.by/stream/2102/351000/98.m3u8
 #EXTINF:-1 ,EX
@@ -407,10 +425,7 @@ http://persik.by/stream/2102/351000/888.m3u8
 
 #EXTINF:-1 ,ТНТ International
 http://persik.by/stream/2102/351000/1052.m3u8
-#EXTINF:-1 ,Матч
-http://persik.by/stream/2102/351000/1077.m3u8
-#EXTINF:-1 ,Шансон ТВ
-http://persik.by/stream/2102/351000/1084.m3u8
+
 #EXTINF:-1 ,Авто 24
 http://persik.by/stream/2102/351000/10004.m3u8
 #EXTINF:-1 ,National Geografic HD
@@ -431,18 +446,14 @@ http://persik.by/stream/2102/351000/10201.m3u8
 http://persik.by/stream/2102/351000/10202.m3u8
 #EXTINF:-1 ,News One
 http://persik.by/stream/2102/351000/10205.m3u8
-#EXTINF:-1 ,Муз ТВ
-http://persik.by/stream/2102/351000/10207.m3u8
+
 #EXTINF:-1 ,CandyMan
 http://persik.by/stream/2102/351000/10209.m3u8
 #EXTINF:-1 ,Natiional Geografic
 http://persik.by/stream/2102/351000/10210.m3u8
 
 
-#EXTINF:-1 ,Mby
-http://persik.by/stream/2102/351000/10226.m3u8
-#EXTINF:-1 ,Mby Rocks
-http://persik.by/stream/2102/351000/10227.m3u8
+
 #EXTINF:-1 ,Новый мир
 http://persik.by/stream/2102/351000/10231.m3u8
 #EXTINF:-1 ,Fox
