@@ -1,279 +1,210 @@
-#EXTM3U
-#EXTINF:0 tvg-logo="http://p.vladna.club/logo/belarus1.png" group-title="Беларусь",Беларусь 1
-#EXTVLCOPT:http-user-agent=smartsdk
-http://178.124.183.5/hls/M52YG9EVYD/variant.m3u8?version=2
-#EXTVLCOPT:http-user-agent=smartsdk
-#EXTINF:0 tvg-logo="http://p.vladna.club/logo/belarus2.png" group-title="Беларусь",Беларусь 2
-#EXTVLCOPT:http-user-agent=smartsdk
-http://178.124.183.5/hls/GCKYZGGFEJ/variant.m3u8?version=2
-#EXTINF:0 tvg-logo="http://p.vladna.club/logo/belarus3.png" group-title="Беларусь",Беларусь 3
-#EXTVLCOPT:http-user-agent=smartsdk
-http://178.124.183.5/hls/TSNEW37RPC/variant.m3u8?version=2
-#EXTINF:0 tvg-logo="http://p.vladna.club/logo/belarus5.png" group-title="Беларусь",Беларусь 5
-#EXTVLCOPT:http-user-agent=smartsdk
-http://178.124.183.5/hls/JRKVSUPCP8/variant.m3u8?version=2
-#EXTINF:0 tvg-logo="http://p.vladna.club/logo/ont.png" group-title="Беларусь",ОНТ
-#EXTVLCOPT:http-user-agent=smartsdk
-http://178.124.183.5/hls/NCLEFHVZGR/variant.m3u8?version=2
-#EXTINF:0 tvg-logo="http://p.vladna.club/logo/ctvby.png" group-title="Беларусь",СТВ
-#EXTVLCOPT:http-user-agent=smartsdk
-http://178.124.183.5/hls/RZEQ3BLSTY/variant.m3u8?version=2
-#EXTINF:0 tvg-logo="http://p.vladna.club/logo/rtrby.png" group-title="Беларусь",РТР-Беларусь
-#EXTVLCOPT:http-user-agent=smartsdk
-http://178.124.183.5/hls/7MQSYYGHFE/variant.m3u8?version=2
-#EXTINF:0 tvg-logo="http://p.vladna.club/logo/ntvby.png" group-title="Беларусь",НТВ Беларусь
-#EXTVLCOPT:http-user-agent=smartsdk
-http://178.124.183.5/hls/DYJ5GH8HOK/variant.m3u8?version=2
-#EXTINF:0 tvg-logo="http://p.vladna.club/logo/mir.png" group-title="HD",Мир HD
-#EXTVLCOPT:http-user-agent=smartsdk
-http://178.124.183.5/hls/M4K3ZYBPWQ/variant.m3u8?version=2
-#EXTINF:0 tvg-logo="http://p.vladna.club/logo/vtv.png" group-title="Беларусь",ВТВ
-#EXTVLCOPT:http-user-agent=smartsdk
-http://178.124.183.5/hls/CRCQFRNUFJ/variant.m3u8?version=2
-#EXTINF:0 tvg-logo="http://p.vladna.club/logo/8channelby.png" group-title="Общие",8 канал
-#EXTVLCOPT:http-user-agent=smartsdk
-http://178.124.183.5/hls/ZXUZZKCA6P/variant.m3u8?version=2
-#EXTINF:0 tvg-logo="http://p.vladna.club/logo/tntint.png" group-title="Беларусь",ТНТ international
-#EXTVLCOPT:http-user-agent=smartsdk
-http://178.124.183.5/hls/MVNP5DA4U9/variant.m3u8?version=2
-#EXTINF:0 tvg-logo="http://p.vladna.club/logo/souz.png" group-title="Общие",Союз
-#EXTVLCOPT:http-user-agent=smartsdk
-http://178.124.183.5/hls/CH_SOYUZ/variant.m3u8?version=2
-#EXTINF:0 tvg-logo="http://p.vladna.club/logo/euronews.png" group-title="Общие",Euronews
-#EXTVLCOPT:http-user-agent=smartsdk
-http://178.124.183.5/hls/C5P6YOXJZT/variant.m3u8?version=2
-#EXTINF:0 tvg-logo="http://p.vladna.club/logo/bbc.png" group-title="Общие",ББК
-#EXTVLCOPT:http-user-agent=smartsdk
-http://178.124.183.5/hls/MCEQ4XBTHP/variant.m3u8?version=2
-#EXTINF:0 tvg-logo="http://p.vladna.club/logo/rtvi.png" group-title="Общие",RTVI
-#EXTVLCOPT:http-user-agent=smartsdk
-http://178.124.183.5/hls/PN9VRQ5DGR/variant.m3u8?version=2
-#EXTINF:0 tvg-logo="http://p.vladna.club/logo/russiak.png" group-title="Общие",Россия К
-#EXTVLCOPT:http-user-agent=smartsdk
-http://178.124.183.5/hls/9XJGVFFAWZ/variant.m3u8?version=2
-#EXTINF:0 tvg-logo="http://p.vladna.club/logo/sarafan.png" group-title="Развлекательные",Сарафан
-#EXTVLCOPT:http-user-agent=smartsdk
-http://178.124.183.5/hls/Y9GP8UFTZO/variant.m3u8?version=2
-#EXTINF:0 group-title="Детские",Детский Мир
-#EXTVLCOPT:http-user-agent=smartsdk
-http://178.124.183.5/hls/9F67L3DGIF/variant.m3u8?version=2
-#EXTINF:0 group-title="Детские",Детский
-#EXTVLCOPT:http-user-agent=smartsdk
-http://178.124.183.5/hls/29EYV8AKKV/variant.m3u8?version=2
-#EXTINF:0 tvg-logo="http://p.vladna.club/logo/multimania.png" group-title="Детские",Мультимания
-#EXTVLCOPT:http-user-agent=smartsdk
-http://178.124.183.5/hls/FBYQ8KG5HM/variant.m3u8?version=2
-#EXTINF:0 tvg-logo="http://p.vladna.club/logo/mult.png" group-title="Детские",Мульт
-#EXTVLCOPT:http-user-agent=smartsdk
-http://178.124.183.5/hls/5MWF7XUWZI/variant.m3u8?version=2
-#EXTINF:0 tvg-logo="http://p.vladna.club/logo/cartoonNetwork.png" group-title="Детские",Cartoon Network
-#EXTVLCOPT:http-user-agent=smartsdk
-http://178.124.183.5/hls/CNVX7JRQJI/variant.m3u8?version=2
-#EXTINF:0 tvg-logo="http://p.vladna.club/logo/boomerang.png" group-title="Детские",Boomerang
-#EXTVLCOPT:http-user-agent=smartsdk
-http://178.124.183.5/hls/JSQ2S6VQTE/variant.m3u8?version=2
-#EXTINF:0 tvg-logo="http://p.vladna.club/logo/2x2.png" group-title="Детские",2x2
-#EXTVLCOPT:http-user-agent=smartsdk
-http://178.124.183.5/hls/EU9VTLDQCN/variant.m3u8?version=2
-#EXTINF:0 tvg-logo="http://p.vladna.club/logo/gulli.png" group-title="Детские",Gulli Girl
-#EXTVLCOPT:http-user-agent=smartsdk
-http://178.124.183.5/hls/7FFGONY2N8/variant.m3u8?version=2
-#EXTINF:0 tvg-logo="http://p.vladna.club/logo/tiji.png" group-title="Детские",Tiji
-#EXTVLCOPT:http-user-agent=smartsdk
-http://178.124.183.5/hls/Q0HVVEIKSQ/variant.m3u8?version=2
-#EXTINF:0 tvg-logo="http://p.vladna.club/logo/skazka.png" group-title="Детские",В гостях у сказки
-#EXTVLCOPT:http-user-agent=smartsdk
-http://178.124.183.5/hls/CH_VGOSTYAH/variant.m3u8?version=2
-#EXTINF:0  tvg-logo="http://p.vladna.club/logo/radost.png" group-title="Детские",Радость моя
-#EXTVLCOPT:http-user-agent=smartsdk
-http://178.124.183.5/hls/CH_RADOST/variant.m3u8?version=2
-#EXTINF:0 tvg-logo="http://p.vladna.club/logo/matchPremier.png" group-title="Спорт",Матч! Премьер
-#EXTVLCOPT:http-user-agent=smartsdk
-http://178.124.183.5/hls/HNBMWPATWZ/variant.m3u8?version=2
-#EXTINF:0 tvg-logo="http://p.vladna.club/logo/setanta.png" group-title="HD",Сетанта Спорт
-#EXTVLCOPT:http-user-agent=smartsdk
-http://178.124.183.5/hls/FWHTTL8YXU/variant.m3u8?version=2
-#EXTINF:0 tvg-logo="http://p.vladna.club/logo/setantaPlus.png" group-title="HD",Сетанта Спорт +
-#EXTVLCOPT:http-user-agent=smartsdk
-http://178.124.183.5/hls/5T3FNFICQ4/variant.m3u8?version=2
-#EXTINF:0  tvg-logo="http://p.vladna.club/logo/khl.png" group-title="Спорт",КХЛ
-#EXTVLCOPT:http-user-agent=smartsdk
-http://178.124.183.5/hls/36H3IDE2WF/variant.m3u8?version=2
-#EXTINF:0 tvg-logo="http://p.vladna.club/logo/russiaExtreme.png" group-title="Мужское",Russian Extreme
-#EXTVLCOPT:http-user-agent=smartsdk
-http://178.124.183.5/hls/6FPPFYT4RG/variant.m3u8?version=2
-#EXTINF:0 tvg-logo="http://p.vladna.club/logo/rtg.png" group-title="HD",RTG HD
-#EXTVLCOPT:http-user-agent=smartsdk
-http://178.124.183.5/hls/7NTSTCRXQW/variant.m3u8?version=2
-#EXTINF:0 tvg-logo="http://p.vladna.club/logo/travelAdventure.png" group-title="Познавательные",Travel+Adventure
-#EXTVLCOPT:http-user-agent=smartsdk
-http://178.124.183.5/hls/TRH5A5QCPD/variant.m3u8?version=2
-#EXTINF:0  tvg-logo="http://p.vladna.club/logo/okhotnikRybolov.png" group-title="HD",Oхотник и рыболов HD
-#EXTVLCOPT:http-user-agent=smartsdk
-http://178.124.183.5/hls/4FDNBEDGFV/variant.m3u8?version=2
-#EXTINF:0 tvg-logo="http://p.vladna.club/logo/okhotaRybalka.png" group-title="Мужское",Охота и Рыбалка
-#EXTVLCOPT:http-user-agent=smartsdk
-http://178.124.183.5/hls/VF5ELDF8AL/variant.m3u8?version=2
-#EXTINF:0 tvg-logo="http://p.vladna.club/logo/usadba.png" group-title="Общие",Усадьба
-#EXTVLCOPT:http-user-agent=smartsdk
-http://178.124.183.5/hls/XMC4NSRVN9/variant.m3u8?version=2
-#EXTINF:0 tvg-logo="http://p.vladna.club/logo/kuhna.png" group-title="Общие",Кухня ТВ
-#EXTVLCOPT:http-user-agent=smartsdk
-http://178.124.183.5/hls/EPX2UEHLPK/variant.m3u8?version=2
-#EXTINF:0 tvg-logo="http://p.vladna.club/logo/hdl.png" group-title="Общие",HD-Life
-#EXTVLCOPT:http-user-agent=smartsdk
-http://178.124.183.5/hls/WGANFGLWPD/variant.m3u8?version=2
-#EXTINF:0 tvg-logo="http://p.vladna.club/logo/oruzhie.png" group-title="Мужское",Оружие
-#EXTVLCOPT:http-user-agent=smartsdk
-http://178.124.183.5/hls/EWEXU8FWAZ/variant.m3u8?version=2
-#EXTINF:0 tvg-logo="http://p.vladna.club/logo/drive.png" group-title="Мужское",Драйв
-#EXTVLCOPT:http-user-agent=smartsdk
-http://178.124.183.5/hls/6UTCEG6ATO/variant.m3u8?version=2
-#EXTINF:0 tvg-logo="http://p.vladna.club/logo/viasatExplore.png" group-title="Познавательные",Viasat Explore
-#EXTVLCOPT:http-user-agent=smartsdk
-http://178.124.183.5/hls/JQQ83OBHTQ/variant.m3u8?version=2
-#EXTINF:0 tvg-logo="http://p.vladna.club/logo/viasatHistory.png" group-title="Познавательные",Viasat History
-#EXTVLCOPT:http-user-agent=smartsdk
+#EXTM3U 
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",KVARTAL TV
+https://mfe.svc.ott.zala.by/hls/CH_KVARTALTV_HLS/variant.m3u8
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",RTVI
+http://178.124.183.5/hls/PN9VRQ5DGR/variant.m3u8
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",БелБизнесЧенел
+http://178.124.183.5/hls/MCEQ4XBTHP/variant.m3u8
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",ВТВ
+http://178.124.183.5/hls/CRCQFRNUFJ/variant.m3u8
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",Ностальгия
+http://178.124.183.5/hls/SWPQU2UFKD/variant.m3u8
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",ТАЙНА
+https://mfe.svc.ott.zala.by/hls/CH_TAYNA_HLS/variant.m3u8
+#EXTINF:-1 group-title="International",5 International
+https://mfe.svc.ott.zala.by/hls/CH_5INTERNAT_HLS/variant.m3u8
+#EXTINF:-1 group-title="International",ТНТ International
+https://mfe.svc.ott.zala.by/hls/MVNP5DA4U9_HLS/variant.m3u8
+#EXTINF:-1 group-title="Белоруссия",Беларусь 1
+https://mfe.svc.ott.zala.by/hls/M52YG9EVYD_HLS/variant.m3u8
+#EXTINF:-1 group-title="Белоруссия",Беларусь 1 (Брест)
+http://178.124.183.5/hls/CH_BELARUS1BREST/variant.m3u8
+#EXTINF:-1 group-title="Белоруссия",Беларусь 1 (Витебск)
+http://178.124.183.5/hls/CH_BELARUS1VIT/variant.m3u8
+#EXTINF:-1 group-title="Белоруссия",Беларусь 1 (Гомель)
+http://178.124.183.5/hls/CH_BELARUS1GOMEL/variant.m3u8
+#EXTINF:-1 group-title="Белоруссия",Беларусь 1 (Гродно)
+http://178.124.183.5/hls/CH_BELARUS1GRODNO/variant.m3u8
+#EXTINF:-1 group-title="Белоруссия",Беларусь 1 (Могилев)
+http://178.124.183.5/hls/CH_BELARUS1MOGILEV/variant.m3u8
+#EXTINF:-1 group-title="Белоруссия",Беларусь 2
+http://178.124.183.5/hls/GCKYZGGFEJ/variant.m3u8
+#EXTINF:-1 group-title="Белоруссия",Беларусь 3
+http://178.124.183.5/hls/TSNEW37RPC/variant.m3u8
+#EXTINF:-1 group-title="Белоруссия",Беларусь 4 (Брест)
+http://178.124.183.5/hls/CH_BELARUS4BR/variant.m3u8
+#EXTINF:-1 group-title="Белоруссия",Беларусь 4 (Витебск)
+http://178.124.183.5/hls/CH_BELARUS4VIT/variant.m3u8
+#EXTINF:-1 group-title="Белоруссия",Беларусь 4 (Гомель)
+http://178.124.183.5/hls/CH_BELARUS4GOM/variant.m3u8
+#EXTINF:-1 group-title="Белоруссия",Беларусь 4 (Гродно)
+http://178.124.183.5/hls/CH_BELARUS4GR/variant.m3u8
+#EXTINF:-1 group-title="Белоруссия",Беларусь 4 (Могилев)
+http://178.124.183.5/hls/CH_BELARUS4MOG/variant.m3u8
+#EXTINF:-1 group-title="Белоруссия",Беларусь 5
+https://mfe.svc.ott.zala.by/hls/JRKVSUPCP8_HLS/variant.m3u8
+#EXTINF:-1 group-title="Белоруссия",НТВ Беларусь
+http://178.124.183.5/hls/DYJ5GH8HOK/variant.m3u8
+#EXTINF:-1 group-title="Белоруссия",ОНТ
+https://mfe.svc.ott.zala.by/hls/NCLEFHVZGR_HLS/variant.m3u8
+#EXTINF:-1 group-title="Белоруссия",ОНТ
+https://mfe.svc.ott.zala.by/hls/NCLEFHVZGRTEST_HLS/variant.m3u8
+#EXTINF:-1 group-title="Белоруссия",РТР Беларусь
+https://mfe.svc.ott.zala.by/hls/7MQSYYGHFE_HLS/variant.m3u8
+#EXTINF:-1 group-title="Белоруссия",СТВ
+https://mfe.svc.ott.zala.by/hls/RZEQ3BLSTY_HLS/variant.m3u8
+#EXTINF:-1 group-title="Белоруссия",ТВ3
+http://178.124.183.5/hls/KLQQ9ECGSQ/variant.m3u8
+#EXTINF:-1 group-title="Детские",Boomerang
+http://178.124.183.5/hls/JSQ2S6VQTE/variant.m3u8
+#EXTINF:-1 group-title="Детские",Cartoon Network
+http://178.124.183.5/hls/CNVX7JRQJI/variant.m3u8
+#EXTINF:-1 group-title="Детские",CTC Kids
+http://178.124.183.5/hls/CH_CTCKIDS/variant.m3u8
+#EXTINF:-1 group-title="Детские",Gulli Girl
+http://178.124.183.5/hls/7FFGONY2N8/variant.m3u8
+#EXTINF:-1 group-title="Детские",TiJi
+http://178.124.183.5/hls/Q0HVVEIKSQ/variant.m3u8
+#EXTINF:-1 group-title="Детские",Детский мир/Телеклуб
+https://mfe.svc.ott.zala.by/hls/9F67L3DGIF_HLS/variant.m3u8
+#EXTINF:-1 group-title="Детские",Мульт
+http://178.124.183.5/hls/5MWF7XUWZI/variant.m3u8
+#EXTINF:-1 group-title="Детские",Мультиландия
+https://mfe.svc.ott.zala.by/hls/FBYQ8KG5HM_HLS/variant.m3u8
+#EXTINF:-1 group-title="Мужское",Драйв
+https://mfe.svc.ott.zala.by/hls/6UTCEG6ATO_HLS/variant.m3u8
+#EXTINF:-1 group-title="Мужское",Оружие
+http://178.124.183.5/hls/EWEXU8FWAZ/variant.m3u8
+#EXTINF:-1 group-title="Мужское",Охота и Рыбалка
+http://178.124.183.5/hls/VF5ELDF8AL/variant.m3u8
+#EXTINF:-1 group-title="Мужское",Охотник и рыболов HD
+http://178.124.183.5/hls/4FDNBEDGFV/variant.m3u8
+#EXTINF:-1 group-title="Музыка",Europa Plus TV
+http://178.124.183.5/hls/BHH8EKRXPO/variant.m3u8
+#EXTINF:-1 group-title="Музыка",RU.TV
+http://178.124.183.5/hls/XW6AGFSZJ8/variant.m3u8
+#EXTINF:-1 group-title="Музыка",Жара
+http://178.124.183.5/hls/DXBSFZDTDG/variant.m3u8
+#EXTINF:-1 group-title="Музыка",Ля-минор
+http://178.124.183.5/hls/CH_LYAMINOR/variant.m3u8
+#EXTINF:-1 group-title="Музыка",ТНТ Music
+http://178.124.183.5/hls/BCJGRB3KAX/variant.m3u8
+#EXTINF:1045937718 group-title="Музыка",Шансон-TB
+https://mfe.svc.ott.zala.by/hls/3K2MEWVSDF_HLS/variant.m3u8
+#EXTINF:-1 group-title="Новости",Евроновости
+http://178.124.183.5/hls/C5P6YOXJZT/variant.m3u8
+#EXTINF:-1 group-title="Познавательные",365 Дней
+http://178.124.183.5/hls/CH_365DNEY/variant.m3u8
+#EXTINF:-1 group-title="Познавательные",History
+http://178.124.183.5/hls/CH_HISTORY/variant.m3u8
+#EXTINF:-1 group-title="Познавательные",Nat Geo Wild
+http://178.124.183.5/hls/ESCMSBZJ8X/variant.m3u8
+#EXTINF:-1 group-title="Познавательные",National Geographic
+http://178.124.183.5/hls/CH_NATGEO/variant.m3u8
+#EXTINF:-1 group-title="Познавательные",Viasat Explorer
+http://178.124.183.5/hls/JQQ83OBHTQ/variant.m3u8
+#EXTINF:-1 group-title="Познавательные",Viasat History
 http://178.124.183.5/hls/CH_VIASATHISTORY/variant.m3u8
-#EXTINF:0 tvg-logo="http://p.vladna.club/logo/viasatNature.png" group-title="Познавательные",Viasat Nature
-#EXTVLCOPT:http-user-agent=smartsdk
-http://178.124.183.5/hls/BN3FTDY3T8/variant.m3u8?version=2
-#EXTINF:0 tvg-logo="http://p.vladna.club/logo/history.png" group-title="Познавательные",History
-#EXTVLCOPT:http-user-agent=smartsdk
-http://178.124.183.5/hls/CH_HISTORY/variant.m3u8?version=2
-#EXTINF:0 tvg-logo="http://p.vladna.club/logo/galaxy.png" group-title="Познавательные",GALAXY
-#EXTVLCOPT:http-user-agent=smartsdk
-http://178.124.183.5/hls/CH_GALAXY/variant.m3u8?version=2
-#EXTINF:0 tvg-logo="http://p.vladna.club/logo/sovsek.png" group-title="Познавательные",Совершенно Секретно
-#EXTVLCOPT:http-user-agent=smartsdk
-http://178.124.183.5/hls/CH_SOVERSHENNOSEKRETNO/variant.m3u8?version=2
-#EXTINF:0 tvg-logo="http://p.vladna.club/logo/nostalgy.png" group-title="Общие",Ностальгия
-#EXTVLCOPT:http-user-agent=smartsdk
-http://178.124.183.5/hls/SWPQU2UFKD/variant.m3u8?version=2
-#EXTINF:0 tvg-logo="http://p.vladna.club/logo/edapremium.png" group-title="HD",ЕДА HD
-#EXTVLCOPT:http-user-agent=smartsdk
-http://178.124.183.5/hls/BCPKKUK5NT/variant.m3u8?version=2
-#EXTINF:0 tvg-logo="http://p.vladna.club/logo/wfc.png" group-title="Общие",WFC
-#EXTVLCOPT:http-user-agent=smartsdk
-http://178.124.183.5/hls/VTFWSVERF5/variant.m3u8?version=2
-#EXTINF:0 tvg-logo="http://p.vladna.club/logo/natgeo.png" group-title="Познавательные",National Geographic Channel
-#EXTVLCOPT:http-user-agent=smartsdk
-http://178.124.183.5/hls/CH_NATGEO/variant.m3u8?version=2
-#EXTINF:0 tvg-logo="http://p.vladna.club/logo/natgeowild.png" group-title="Познавательные",Nat Geo Wild
-#EXTVLCOPT:http-user-agent=smartsdk
-http://178.124.183.5/hls/ESCMSBZJ8X/variant.m3u8?version=2
-#EXTINF:0 tvg-logo="http://p.vladna.club/logo/nauka.png" group-title="Познавательные",Наука 2.0
-#EXTVLCOPT:http-user-agent=smartsdk
-http://178.124.183.5/hls/LWWBCKZAPZ/variant.m3u8?version=2
-#EXTINF:0 tvg-logo="http://p.vladna.club/logo/moyaPlaneta.png" group-title="Познавательные",Моя планета
-#EXTVLCOPT:http-user-agent=smartsdk
-http://178.124.183.5/hls/FV47BRVQW4/variant.m3u8?version=2
-#EXTINF:0 tvg-logo="http://p.vladna.club/logo/techno24.png" group-title="Познавательные",24Техно
-#EXTVLCOPT:http-user-agent=smartsdk
-http://178.124.183.5/hls/ZIVFRAFR2I/variant.m3u8?version=2
-#EXTINF:0 tvg-logo="http://p.vladna.club/logo/eureka.png" group-title="Познавательные",Eureka
-#EXTVLCOPT:http-user-agent=smartsdk
-http://178.124.183.5/hls/KBHOKBYSSX/variant.m3u8?version=2
-#EXTINF:0 tvg-logo="http://p.vladna.club/logo/tv3belarus.png" group-title="Беларусь",ТВ-3 Беларусь
-#EXTVLCOPT:http-user-agent=smartsdk
-http://178.124.183.5/hls/KLQQ9ECGSQ/variant.m3u8?version=2
-#EXTINF:0 tvg-logo="http://p.vladna.club/logo/tv1000.png" group-title="Кино",TV1000
-#EXTVLCOPT:http-user-agent=smartsdk
-http://178.124.183.5/hls/6WMZMUEWGN/variant.m3u8?version=2
-#EXTINF:0 tvg-logo="http://p.vladna.club/logo/tv1000rukino.png" group-title="Кино",TV1000 Русское кино
-#EXTVLCOPT:http-user-agent=smartsdk
-http://178.124.183.5/hls/PWIKICZUYF/variant.m3u8?version=2
-#EXTINF:0 tvg-logo="http://p.vladna.club/logo/tv1000action.png" group-title="Кино",TV1000 Action
-#EXTVLCOPT:http-user-agent=smartsdk
-http://178.124.183.5/hls/9X9NUEEKGW/variant.m3u8?version=2
-#EXTINF:0 tvg-logo="http://p.vladna.club/logo/fox.png" group-title="Кино",FOX
-#EXTVLCOPT:http-user-agent=smartsdk
-http://178.124.183.5/hls/CH_FOX/variant.m3u8?version=2
-#EXTINF:0 tvg-logo="http://p.vladna.club/logo/foxlife.png" group-title="Кино",FOX Life
-#EXTVLCOPT:http-user-agent=smartsdk
-http://178.124.183.5/hls/CH_FOXL/variant.m3u8?version=2
-#EXTINF:0 group-title="Кино",Наше Новое Кино
-#EXTVLCOPT:http-user-agent=smartsdk
-http://178.124.183.5/hls/UVPWPN2KTN/variant.m3u8?version=2
-#EXTINF:0 group-title="HD",Кинопремьера HD
-#EXTVLCOPT:http-user-agent=smartsdk
-http://178.124.183.5/hls/CH_KINOPREMERA/variant.m3u8?version=2
-#EXTINF:0 group-title="Кино",Родное Кино
-#EXTVLCOPT:http-user-agent=smartsdk
-http://178.124.183.5/hls/CH_NTVPLUSNASHEKINO/variant.m3u8?version=2
-#EXTINF:0 group-title="Кино",Любимое кино
-#EXTVLCOPT:http-user-agent=smartsdk
-http://178.124.183.5/hls/CH_NASHEKINO/variant.m3u8?version=2
-#EXTINF:0 group-title="Кино",Индийское кино
-#EXTVLCOPT:http-user-agent=smartsdk
-http://178.124.183.5/hls/CH_INDIYATV/variant.m3u8?version=2
-#EXTINF:0 group-title="Кино",Еврокино
-#EXTVLCOPT:http-user-agent=smartsdk
-http://178.124.183.5/hls/JEDUS3FS7V/variant.m3u8?version=2
-#EXTINF:0 group-title="Кино",Киносемья
-#EXTVLCOPT:http-user-agent=smartsdk
-http://178.124.183.5/hls/FEDXG8XPOR/variant.m3u8?version=2
-#EXTINF:0 tvg-logo="http://p.vladna.club/logo/kinomix.png" group-title="Кино",Киномикс
-#EXTVLCOPT:http-user-agent=smartsdk
-http://178.124.183.5/hls/VVG76MWUGX/variant.m3u8?version=2
-#EXTINF:0 tvg-logo="http://p.vladna.club/logo/kinohit.png" group-title="Кино",Кинохит
-#EXTVLCOPT:http-user-agent=smartsdk
-http://178.124.183.5/hls/HDOHSSZQCP/variant.m3u8?version=2
-#EXTINF:0 tvg-logo="http://p.vladna.club/logo/ruIlluzion.png" group-title="Кино",Русский Иллюзион
-#EXTVLCOPT:http-user-agent=smartsdk
-http://178.124.183.5/hls/CMV4SNACFQ/variant.m3u8?version=2
-#EXTINF:0 tvg-logo="http://p.vladna.club/logo/illuzionPlus.png" group-title="Кино",Иллюзион +
-#EXTVLCOPT:http-user-agent=smartsdk
-http://178.124.183.5/hls/V8TRED4CZL/variant.m3u8?version=2
-#EXTINF:0 group-title="Кино",Мужское кино
-#EXTVLCOPT:http-user-agent=smartsdk
-http://178.124.183.5/hls/W7LNWHFGTB/variant.m3u8?version=2
-#EXTINF:0 group-title="Кино",Sony Sci-Fi
-#EXTVLCOPT:http-user-agent=smartsdk
-http://178.124.183.5/hls/EDVYQYGHF8/variant.m3u8?version=2
-#EXTINF:0 group-title="HD",Sony Channel HD
-#EXTVLCOPT:http-user-agent=smartsdk
-http://178.124.183.5/hls/VPRSUR2WN2/variant.m3u8?version=2
-#EXTINF:0 tvg-logo="http://p.vladna.club/logo/amedia1.png" group-title="HD",Amedia 1 HD
-#EXTVLCOPT:http-user-agent=smartsdk
-http://178.124.183.5/hls/CH_AMEDIA/variant.m3u8?version=2
-#EXTINF:0 tvg-logo="http://p.vladna.club/logo/amedia2.png" group-title="Кино",Amedia 2
-#EXTVLCOPT:http-user-agent=smartsdk
-http://178.124.183.5/hls/H4DP5GK3AE/variant.m3u8?version=2
-#EXTINF:0 tvg-logo="http://p.vladna.club/logo/amediaHit.png" group-title="HD",Amedia Hit HD
-#EXTVLCOPT:http-user-agent=smartsdk
-http://178.124.183.5/hls/CH_AMEDIAHIT/variant.m3u8?version=2
-#EXTINF:0 tvg-logo="http://p.vladna.club/logo/amediaPremium.png" group-title="HD",Amedia Premium HD
-#EXTVLCOPT:http-user-agent=smartsdk
-http://178.124.183.5/hls/CH_AMEDIAPREMIUM/bw5000000/variant.m3u8?version=2
-#EXTINF:0 tvg-logo="http://p.vladna.club/logo/nst.png" group-title="Кино",НСТ Страшное
-#EXTVLCOPT:http-user-agent=smartsdk
-http://178.124.183.5/hls/NEZVX5TVZX/variant.m3u8?version=2
-#EXTINF:0 tvg-logo="http://p.vladna.club/logo/rutv.png" group-title="Музыка",RU TV
-#EXTVLCOPT:http-user-agent=smartsdk
-http://178.124.183.5/hls/XW6AGFSZJ8/variant.m3u8?version=2
-#EXTINF:0 tvg-logo="http://p.vladna.club/logo/shanson.png" group-title="Музыка",Шансон ТВ
-#EXTVLCOPT:http-user-agent=smartsdk
-http://178.124.183.5/hls/3K2MEWVSDF/variant.m3u8?version=2
-#EXTINF:0 tvg-logo="http://p.vladna.club/logo/europaplus.png" group-title="Музыка",Europa Plus TV
-#EXTVLCOPT:http-user-agent=smartsdk
-http://178.124.183.5/hls/BHH8EKRXPO/variant.m3u8?version=2
-#EXTINF:0 group-title="Музыка",1HD.ru
-#EXTVLCOPT:http-user-agent=smartsdk
-http://178.124.183.5/hls/Q2WSPUHMME/variant.m3u8?version=2
-#EXTINF:0 tvg-logo="http://p.vladna.club/logo/tntMusic.png" group-title="Музыка",ТНТ Music
-#EXTVLCOPT:http-user-agent=smartsdk
-http://178.124.183.5/hls/BCJGRB3KAX/variant.m3u8?version=2
-#EXTINF:0 tvg-logo="http://p.vladna.club/logo/jara.png" group-title="Музыка",Жара TV
-#EXTVLCOPT:http-user-agent=smartsdk
-http://178.124.183.5/hls/DXBSFZDTDG/variant.m3u8?version=2
-#EXTINF:0 group-title="Эротика",Русская ночь
-#EXTVLCOPT:http-user-agent=smartsdk
-http://178.124.183.5/hls/F7UMYQMCGB/variant.m3u8?version=2
-#EXTINF:0 tvg-logo="http://p.vladna.club/logo/bluehustler.png" group-title="Эротика",Blue Hustler
-#EXTVLCOPT:http-user-agent=smartsdk
-http://178.124.183.5/hls/CH_BLUEHUSTLER/variant.m3u8?version=2
-#EXTINF:0 tvg-logo="http://p.vladna.club/logo/nuart.png" group-title="Эротика",Nuart TV
-#EXTVLCOPT:http-user-agent=smartsdk
-http://178.124.183.5/hls/CH_NYARTTV/variant.m3u8?version=2
+#EXTINF:-1 group-title="Познавательные",Viasat Nature
+https://mfe.svc.ott.zala.by/hls/BN3FTDY3T8_HLS/variant.m3u8
+#EXTINF:-1 group-title="Познавательные",ВосьМой
+http://178.124.183.5/hls/ZXUZZKCA6P/variant.m3u8
+#EXTINF:-1 group-title="Познавательные",Еда HD
+http://178.124.183.5/hls/BCPKKUK5NT/variant.m3u8
+#EXTINF:-1 group-title="Познавательные",Моя Планета
+http://178.124.183.5/hls/FV47BRVQW4/variant.m3u8
+#EXTINF:-1 group-title="Познавательные",Наука
+http://178.124.183.5/hls/LWWBCKZAPZ/variant.m3u8
+#EXTINF:-1 group-title="Познавательные",Неизвестная планета
+https://mfe.svc.ott.zala.by/hls/CH_NEIZPLANETA_HLS/variant.m3u8
+#EXTINF:-1 group-title="Познавательные",НТВ Право
+https://mfe.svc.ott.zala.by/hls/CH_NTVPRAVO_HLS/variant.m3u8
+#EXTINF:-1 group-title="Познавательные",ПОЕХАЛИ!
+https://mfe.svc.ott.zala.by/hls/CH_POEHALY_HLS/variant.m3u8
+#EXTINF:-1 group-title="Познавательные",Тайны Галактики
+http://178.124.183.5/hls/CH_GALAXY/variant.m3u8
+#EXTINF:-1 group-title="Познавательные",Техно 24
+http://178.124.183.5/hls/ZIVFRAFR2I/variant.m3u8
+#EXTINF:-1 group-title="Развлекательные",2х2
+http://178.124.183.5/hls/EU9VTLDQCN/variant.m3u8
+#EXTINF:-1 group-title="Развлекательные",Сарафан
+http://178.124.183.5/hls/Y9GP8UFTZO/variant.m3u8
+#EXTINF:-1 group-title="Религия",Союз
+http://178.124.183.5/hls/CH_SOYUZ/variant.m3u8
+#EXTINF:-1 group-title="Русские",Мир
+https://mfe.svc.ott.zala.by/hls/M4K3ZYBPWQ_HLS/variant.m3u8
+#EXTINF:-1 group-title="Русские",Россия К
+https://mfe.svc.ott.zala.by/hls/9XJGVFFAWZ_HLS/variant.m3u8
+#EXTINF:-1 group-title="Спорт",Setanta Sport Eurasia +
+http://178.124.183.5/hls/5T3FNFICQ4/variant.m3u8
+#EXTINF:-1 group-title="Спорт",Setanta Sport Eurasia
+http://178.124.183.5/hls/FWHTTL8YXU/variant.m3u8
+#EXTINF:-1 group-title="Спорт",UFC
+https://mfe.svc.ott.zala.by/hls/CH_UFC_HLS/variant.m3u8
+#EXTINF:-1 group-title="Спорт",КХЛ
+http://178.124.183.5/hls/36H3IDE2WF/variant.m3u8
+#EXTINF:-1 group-title="Спорт",Матч! Планета
+http://178.124.183.5/hls/CH_MATCHPLANETA/variant.m3u8
+#EXTINF:-1 group-title="Спорт",Матч! Премьер
+http://178.124.183.5/hls/HNBMWPATWZ/variant.m3u8
+#EXTINF:-1 group-title="Увлечения",Кухня ТВ
+http://178.124.183.5/hls/EPX2UEHLPK/variant.m3u8
+#EXTINF:-1 group-title="Увлечения",Телемагазин
+http://178.124.183.5/hls/CH_TELEMAGAZIN/variant.m3u8
+#EXTINF:-1 group-title="Увлечения",Усадьба
+https://mfe.svc.ott.zala.by/hls/XMC4NSRVN9_HLS/variant.m3u8
+#EXTINF:-1 group-title="Фильмы",Amedia Premium HD
+http://178.124.183.5/hls/CH_AMEDIAPREMIUM/variant.m3u8
+#EXTINF:-1 group-title="Фильмы",BOLT
+http://178.124.183.5/hls/CH_BOLT/variant.m3u8
+#EXTINF:-1 group-title="Фильмы",Fox
+http://178.124.183.5/hls/CH_FOX/variant.m3u8
+#EXTINF:-1 group-title="Фильмы",Fox Life
+http://178.124.183.5/hls/CH_FOXL/variant.m3u8
+#EXTINF:-1 group-title="Фильмы",Sony Channel HD
+http://178.124.183.5/hls/VPRSUR2WN2/variant.m3u8
+#EXTINF:-1 group-title="Фильмы",Sony Sci-Fi
+http://178.124.183.5/hls/EDVYQYGHF8/variant.m3u8
+#EXTINF:-1 group-title="Фильмы",Star Cinema
+http://178.124.183.5/hls/CH_STARCINEMA/variant.m3u8
+#EXTINF:-1 group-title="Фильмы",Star Family
+http://178.124.183.5/hls/CH_FAMILY/variant.m3u8
+#EXTINF:-1 group-title="Фильмы",TV1000 Action
+http://178.124.183.5/hls/9X9NUEEKGW/variant.m3u8
+#EXTINF:-1 group-title="Фильмы",TV1000
+http://178.124.183.5/hls/6WMZMUEWGN/variant.m3u8
+#EXTINF:-1 group-title="Фильмы",TV1000 Русское кино
+http://178.124.183.5/hls/PWIKICZUYF/variant.m3u8
+#EXTINF:-1 group-title="Фильмы",А2
+https://mfe.svc.ott.zala.by/hls/H4DP5GK3AE_HLS/variant.m3u8
+#EXTINF:-1 group-title="Фильмы",Еврокино
+http://178.124.183.5/hls/JEDUS3FS7V/variant.m3u8
+#EXTINF:-1 group-title="Фильмы",Индийское кино
+http://178.124.183.5/hls/CH_INDIYATV/variant.m3u8
+#EXTINF:-1 group-title="Фильмы",Киномикс
+http://178.124.183.5/hls/VVG76MWUGX/variant.m3u8
+#EXTINF:-1 group-title="Фильмы",Кинопремьера
+http://178.124.183.5/hls/CH_KINOPREMERA/variant.m3u8
+#EXTINF:-1 group-title="Фильмы",Киносемья
+http://178.124.183.5/hls/FEDXG8XPOR/variant.m3u8
+#EXTINF:-1 group-title="Фильмы",Киносерия
+http://178.124.183.5/hls/CH_KINOSERIA/variant.m3u8
+#EXTINF:-1 group-title="Фильмы",Кинохит
+http://178.124.183.5/hls/HDOHSSZQCP/variant.m3u8
+#EXTINF:-1 group-title="Фильмы",Любимое кино
+http://178.124.183.5/hls/CH_NASHEKINO/variant.m3u8
+#EXTINF:-1 group-title="Фильмы",Мужское кино
+http://178.124.183.5/hls/W7LNWHFGTB/variant.m3u8
+#EXTINF:-1 group-title="Фильмы",Настоящее страшное ТВ
+http://178.124.183.5/hls/NEZVX5TVZX/variant.m3u8
+#EXTINF:-1 group-title="Фильмы",Наше новое кино
+http://178.124.183.5/hls/UVPWPN2KTN/variant.m3u8
+#EXTINF:-1 group-title="Фильмы",НТВ Сериал
+https://mfe.svc.ott.zala.by/hls/CH_NTVSERIAL_HLS/variant.m3u8
+#EXTINF:-1 group-title="Фильмы",Родное кино
+https://mfe.svc.ott.zala.by/hls/CH_NTVPLUSNASHEKINO_HLS/variant.m3u8
+#EXTINF:-1 group-title="Фильмы",Русский иллюзион
+http://178.124.183.5/hls/CMV4SNACFQ/variant.m3u8
+#EXTINF:-1 group-title="Фильмы",Синема
+https://mfe.svc.ott.zala.by/hls/CH_CINEMA_HLS/variant.m3u8
 
