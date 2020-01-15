@@ -1,210 +1,217 @@
-#EXTM3U 
-#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",KVARTAL TV
-https://mfe.svc.ott.zala.by/hls/CH_KVARTALTV_HLS/variant.m3u8
-#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",RTVI
-http://178.124.183.5/hls/PN9VRQ5DGR/variant.m3u8
-#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",БелБизнесЧенел
-http://178.124.183.5/hls/MCEQ4XBTHP/variant.m3u8
-#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",ВТВ
-http://178.124.183.5/hls/CRCQFRNUFJ/variant.m3u8
-#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",Ностальгия
-http://178.124.183.5/hls/SWPQU2UFKD/variant.m3u8
-#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",ТАЙНА
-https://mfe.svc.ott.zala.by/hls/CH_TAYNA_HLS/variant.m3u8
-#EXTINF:-1 group-title="International",5 International
-https://mfe.svc.ott.zala.by/hls/CH_5INTERNAT_HLS/variant.m3u8
-#EXTINF:-1 group-title="International",ТНТ International
-https://mfe.svc.ott.zala.by/hls/MVNP5DA4U9_HLS/variant.m3u8
-#EXTINF:-1 group-title="Белоруссия",Беларусь 1
-https://mfe.svc.ott.zala.by/hls/M52YG9EVYD_HLS/variant.m3u8
-#EXTINF:-1 group-title="Белоруссия",Беларусь 1 (Брест)
-http://178.124.183.5/hls/CH_BELARUS1BREST/variant.m3u8
-#EXTINF:-1 group-title="Белоруссия",Беларусь 1 (Витебск)
-http://178.124.183.5/hls/CH_BELARUS1VIT/variant.m3u8
-#EXTINF:-1 group-title="Белоруссия",Беларусь 1 (Гомель)
-http://178.124.183.5/hls/CH_BELARUS1GOMEL/variant.m3u8
-#EXTINF:-1 group-title="Белоруссия",Беларусь 1 (Гродно)
-http://178.124.183.5/hls/CH_BELARUS1GRODNO/variant.m3u8
-#EXTINF:-1 group-title="Белоруссия",Беларусь 1 (Могилев)
-http://178.124.183.5/hls/CH_BELARUS1MOGILEV/variant.m3u8
-#EXTINF:-1 group-title="Белоруссия",Беларусь 2
-http://178.124.183.5/hls/GCKYZGGFEJ/variant.m3u8
-#EXTINF:-1 group-title="Белоруссия",Беларусь 3
-http://178.124.183.5/hls/TSNEW37RPC/variant.m3u8
-#EXTINF:-1 group-title="Белоруссия",Беларусь 4 (Брест)
-http://178.124.183.5/hls/CH_BELARUS4BR/variant.m3u8
-#EXTINF:-1 group-title="Белоруссия",Беларусь 4 (Витебск)
-http://178.124.183.5/hls/CH_BELARUS4VIT/variant.m3u8
-#EXTINF:-1 group-title="Белоруссия",Беларусь 4 (Гомель)
-http://178.124.183.5/hls/CH_BELARUS4GOM/variant.m3u8
-#EXTINF:-1 group-title="Белоруссия",Беларусь 4 (Гродно)
-http://178.124.183.5/hls/CH_BELARUS4GR/variant.m3u8
-#EXTINF:-1 group-title="Белоруссия",Беларусь 4 (Могилев)
-http://178.124.183.5/hls/CH_BELARUS4MOG/variant.m3u8
-#EXTINF:-1 group-title="Белоруссия",Беларусь 5
-https://mfe.svc.ott.zala.by/hls/JRKVSUPCP8_HLS/variant.m3u8
-#EXTINF:-1 group-title="Белоруссия",НТВ Беларусь
-http://178.124.183.5/hls/DYJ5GH8HOK/variant.m3u8
-#EXTINF:-1 group-title="Белоруссия",ОНТ
-https://mfe.svc.ott.zala.by/hls/NCLEFHVZGR_HLS/variant.m3u8
-#EXTINF:-1 group-title="Белоруссия",ОНТ
-https://mfe.svc.ott.zala.by/hls/NCLEFHVZGRTEST_HLS/variant.m3u8
-#EXTINF:-1 group-title="Белоруссия",РТР Беларусь
-https://mfe.svc.ott.zala.by/hls/7MQSYYGHFE_HLS/variant.m3u8
-#EXTINF:-1 group-title="Белоруссия",СТВ
-https://mfe.svc.ott.zala.by/hls/RZEQ3BLSTY_HLS/variant.m3u8
-#EXTINF:-1 group-title="Белоруссия",ТВ3
-http://178.124.183.5/hls/KLQQ9ECGSQ/variant.m3u8
-#EXTINF:-1 group-title="Детские",Boomerang
-http://178.124.183.5/hls/JSQ2S6VQTE/variant.m3u8
-#EXTINF:-1 group-title="Детские",Cartoon Network
-http://178.124.183.5/hls/CNVX7JRQJI/variant.m3u8
-#EXTINF:-1 group-title="Детские",CTC Kids
-http://178.124.183.5/hls/CH_CTCKIDS/variant.m3u8
-#EXTINF:-1 group-title="Детские",Gulli Girl
-http://178.124.183.5/hls/7FFGONY2N8/variant.m3u8
-#EXTINF:-1 group-title="Детские",TiJi
-http://178.124.183.5/hls/Q0HVVEIKSQ/variant.m3u8
-#EXTINF:-1 group-title="Детские",Детский мир/Телеклуб
-https://mfe.svc.ott.zala.by/hls/9F67L3DGIF_HLS/variant.m3u8
-#EXTINF:-1 group-title="Детские",Мульт
-http://178.124.183.5/hls/5MWF7XUWZI/variant.m3u8
-#EXTINF:-1 group-title="Детские",Мультиландия
-https://mfe.svc.ott.zala.by/hls/FBYQ8KG5HM_HLS/variant.m3u8
-#EXTINF:-1 group-title="Мужское",Драйв
-https://mfe.svc.ott.zala.by/hls/6UTCEG6ATO_HLS/variant.m3u8
-#EXTINF:-1 group-title="Мужское",Оружие
-http://178.124.183.5/hls/EWEXU8FWAZ/variant.m3u8
-#EXTINF:-1 group-title="Мужское",Охота и Рыбалка
-http://178.124.183.5/hls/VF5ELDF8AL/variant.m3u8
-#EXTINF:-1 group-title="Мужское",Охотник и рыболов HD
-http://178.124.183.5/hls/4FDNBEDGFV/variant.m3u8
-#EXTINF:-1 group-title="Музыка",Europa Plus TV
-http://178.124.183.5/hls/BHH8EKRXPO/variant.m3u8
-#EXTINF:-1 group-title="Музыка",RU.TV
-http://178.124.183.5/hls/XW6AGFSZJ8/variant.m3u8
-#EXTINF:-1 group-title="Музыка",Жара
-http://178.124.183.5/hls/DXBSFZDTDG/variant.m3u8
-#EXTINF:-1 group-title="Музыка",Ля-минор
-http://178.124.183.5/hls/CH_LYAMINOR/variant.m3u8
-#EXTINF:-1 group-title="Музыка",ТНТ Music
-http://178.124.183.5/hls/BCJGRB3KAX/variant.m3u8
-#EXTINF:1045937718 group-title="Музыка",Шансон-TB
-https://mfe.svc.ott.zala.by/hls/3K2MEWVSDF_HLS/variant.m3u8
-#EXTINF:-1 group-title="Новости",Евроновости
-http://178.124.183.5/hls/C5P6YOXJZT/variant.m3u8
-#EXTINF:-1 group-title="Познавательные",365 Дней
-http://178.124.183.5/hls/CH_365DNEY/variant.m3u8
-#EXTINF:-1 group-title="Познавательные",History
-http://178.124.183.5/hls/CH_HISTORY/variant.m3u8
-#EXTINF:-1 group-title="Познавательные",Nat Geo Wild
-http://178.124.183.5/hls/ESCMSBZJ8X/variant.m3u8
-#EXTINF:-1 group-title="Познавательные",National Geographic
-http://178.124.183.5/hls/CH_NATGEO/variant.m3u8
-#EXTINF:-1 group-title="Познавательные",Viasat Explorer
-http://178.124.183.5/hls/JQQ83OBHTQ/variant.m3u8
-#EXTINF:-1 group-title="Познавательные",Viasat History
-http://178.124.183.5/hls/CH_VIASATHISTORY/variant.m3u8
-#EXTINF:-1 group-title="Познавательные",Viasat Nature
-https://mfe.svc.ott.zala.by/hls/BN3FTDY3T8_HLS/variant.m3u8
-#EXTINF:-1 group-title="Познавательные",ВосьМой
-http://178.124.183.5/hls/ZXUZZKCA6P/variant.m3u8
-#EXTINF:-1 group-title="Познавательные",Еда HD
-http://178.124.183.5/hls/BCPKKUK5NT/variant.m3u8
-#EXTINF:-1 group-title="Познавательные",Моя Планета
-http://178.124.183.5/hls/FV47BRVQW4/variant.m3u8
-#EXTINF:-1 group-title="Познавательные",Наука
-http://178.124.183.5/hls/LWWBCKZAPZ/variant.m3u8
-#EXTINF:-1 group-title="Познавательные",Неизвестная планета
-https://mfe.svc.ott.zala.by/hls/CH_NEIZPLANETA_HLS/variant.m3u8
-#EXTINF:-1 group-title="Познавательные",НТВ Право
-https://mfe.svc.ott.zala.by/hls/CH_NTVPRAVO_HLS/variant.m3u8
-#EXTINF:-1 group-title="Познавательные",ПОЕХАЛИ!
-https://mfe.svc.ott.zala.by/hls/CH_POEHALY_HLS/variant.m3u8
-#EXTINF:-1 group-title="Познавательные",Тайны Галактики
-http://178.124.183.5/hls/CH_GALAXY/variant.m3u8
-#EXTINF:-1 group-title="Познавательные",Техно 24
-http://178.124.183.5/hls/ZIVFRAFR2I/variant.m3u8
-#EXTINF:-1 group-title="Развлекательные",2х2
-http://178.124.183.5/hls/EU9VTLDQCN/variant.m3u8
-#EXTINF:-1 group-title="Развлекательные",Сарафан
-http://178.124.183.5/hls/Y9GP8UFTZO/variant.m3u8
-#EXTINF:-1 group-title="Религия",Союз
-http://178.124.183.5/hls/CH_SOYUZ/variant.m3u8
-#EXTINF:-1 group-title="Русские",Мир
-https://mfe.svc.ott.zala.by/hls/M4K3ZYBPWQ_HLS/variant.m3u8
-#EXTINF:-1 group-title="Русские",Россия К
-https://mfe.svc.ott.zala.by/hls/9XJGVFFAWZ_HLS/variant.m3u8
-#EXTINF:-1 group-title="Спорт",Setanta Sport Eurasia +
-http://178.124.183.5/hls/5T3FNFICQ4/variant.m3u8
-#EXTINF:-1 group-title="Спорт",Setanta Sport Eurasia
-http://178.124.183.5/hls/FWHTTL8YXU/variant.m3u8
-#EXTINF:-1 group-title="Спорт",UFC
-https://mfe.svc.ott.zala.by/hls/CH_UFC_HLS/variant.m3u8
-#EXTINF:-1 group-title="Спорт",КХЛ
-http://178.124.183.5/hls/36H3IDE2WF/variant.m3u8
-#EXTINF:-1 group-title="Спорт",Матч! Планета
-http://178.124.183.5/hls/CH_MATCHPLANETA/variant.m3u8
-#EXTINF:-1 group-title="Спорт",Матч! Премьер
-http://178.124.183.5/hls/HNBMWPATWZ/variant.m3u8
-#EXTINF:-1 group-title="Увлечения",Кухня ТВ
-http://178.124.183.5/hls/EPX2UEHLPK/variant.m3u8
-#EXTINF:-1 group-title="Увлечения",Телемагазин
-http://178.124.183.5/hls/CH_TELEMAGAZIN/variant.m3u8
-#EXTINF:-1 group-title="Увлечения",Усадьба
-https://mfe.svc.ott.zala.by/hls/XMC4NSRVN9_HLS/variant.m3u8
-#EXTINF:-1 group-title="Фильмы",Amedia Premium HD
-http://178.124.183.5/hls/CH_AMEDIAPREMIUM/variant.m3u8
-#EXTINF:-1 group-title="Фильмы",BOLT
-http://178.124.183.5/hls/CH_BOLT/variant.m3u8
-#EXTINF:-1 group-title="Фильмы",Fox
-http://178.124.183.5/hls/CH_FOX/variant.m3u8
-#EXTINF:-1 group-title="Фильмы",Fox Life
-http://178.124.183.5/hls/CH_FOXL/variant.m3u8
-#EXTINF:-1 group-title="Фильмы",Sony Channel HD
-http://178.124.183.5/hls/VPRSUR2WN2/variant.m3u8
-#EXTINF:-1 group-title="Фильмы",Sony Sci-Fi
-http://178.124.183.5/hls/EDVYQYGHF8/variant.m3u8
-#EXTINF:-1 group-title="Фильмы",Star Cinema
-http://178.124.183.5/hls/CH_STARCINEMA/variant.m3u8
-#EXTINF:-1 group-title="Фильмы",Star Family
-http://178.124.183.5/hls/CH_FAMILY/variant.m3u8
-#EXTINF:-1 group-title="Фильмы",TV1000 Action
-http://178.124.183.5/hls/9X9NUEEKGW/variant.m3u8
-#EXTINF:-1 group-title="Фильмы",TV1000
-http://178.124.183.5/hls/6WMZMUEWGN/variant.m3u8
-#EXTINF:-1 group-title="Фильмы",TV1000 Русское кино
-http://178.124.183.5/hls/PWIKICZUYF/variant.m3u8
-#EXTINF:-1 group-title="Фильмы",А2
-https://mfe.svc.ott.zala.by/hls/H4DP5GK3AE_HLS/variant.m3u8
-#EXTINF:-1 group-title="Фильмы",Еврокино
-http://178.124.183.5/hls/JEDUS3FS7V/variant.m3u8
-#EXTINF:-1 group-title="Фильмы",Индийское кино
-http://178.124.183.5/hls/CH_INDIYATV/variant.m3u8
-#EXTINF:-1 group-title="Фильмы",Киномикс
-http://178.124.183.5/hls/VVG76MWUGX/variant.m3u8
-#EXTINF:-1 group-title="Фильмы",Кинопремьера
-http://178.124.183.5/hls/CH_KINOPREMERA/variant.m3u8
-#EXTINF:-1 group-title="Фильмы",Киносемья
-http://178.124.183.5/hls/FEDXG8XPOR/variant.m3u8
-#EXTINF:-1 group-title="Фильмы",Киносерия
-http://178.124.183.5/hls/CH_KINOSERIA/variant.m3u8
-#EXTINF:-1 group-title="Фильмы",Кинохит
-http://178.124.183.5/hls/HDOHSSZQCP/variant.m3u8
-#EXTINF:-1 group-title="Фильмы",Любимое кино
-http://178.124.183.5/hls/CH_NASHEKINO/variant.m3u8
-#EXTINF:-1 group-title="Фильмы",Мужское кино
-http://178.124.183.5/hls/W7LNWHFGTB/variant.m3u8
-#EXTINF:-1 group-title="Фильмы",Настоящее страшное ТВ
-http://178.124.183.5/hls/NEZVX5TVZX/variant.m3u8
-#EXTINF:-1 group-title="Фильмы",Наше новое кино
-http://178.124.183.5/hls/UVPWPN2KTN/variant.m3u8
-#EXTINF:-1 group-title="Фильмы",НТВ Сериал
-https://mfe.svc.ott.zala.by/hls/CH_NTVSERIAL_HLS/variant.m3u8
-#EXTINF:-1 group-title="Фильмы",Родное кино
-https://mfe.svc.ott.zala.by/hls/CH_NTVPLUSNASHEKINO_HLS/variant.m3u8
-#EXTINF:-1 group-title="Фильмы",Русский иллюзион
-http://178.124.183.5/hls/CMV4SNACFQ/variant.m3u8
-#EXTINF:-1 group-title="Фильмы",Синема
-https://mfe.svc.ott.zala.by/hls/CH_CINEMA_HLS/variant.m3u8
-
+#EXTM3U
+#EXTINF:-1,Беларусь 1
+http://mfe.svc.ott.zala.by:80/hls/M52YG9EVYD_HLS/variant.m3u8
+#EXTINF:-1,Беларусь 2
+http://mfe.svc.ott.zala.by:80/hls/GCKYZGGFEJ_HLS/variant.m3u8
+#EXTINF:-1,Беларусь 3
+http://mfe.svc.ott.zala.by:80/hls/TSNEW37RPC_HLS/variant.m3u8
+#EXTINF:-1,Беларусь 5
+http://mfe.svc.ott.zala.by:80/hls/JRKVSUPCP8_HLS/variant.m3u8
+#EXTINF:-1,ОНТ
+http://mfe.svc.ott.zala.by:80/hls/NCLEFHVZGR_HLS/variant.m3u8
+#EXTINF:-1,СТВ
+http://mfe.svc.ott.zala.by:80/hls/RZEQ3BLSTY_HLS/variant.m3u8
+#EXTINF:-1,РТР-Беларусь
+http://mfe.svc.ott.zala.by:80/hls/7MQSYYGHFE_HLS/variant.m3u8
+#EXTINF:-1,НТВ Беларусь
+http://mfe.svc.ott.zala.by:80/hls/DYJ5GH8HOK_HLS/variant.m3u8
+#EXTINF:-1,Мир
+http://mfe.svc.ott.zala.by:80/hls/M4K3ZYBPWQ_HLS/variant.m3u8
+#EXTINF:-1,ВТВ
+http://mfe.svc.ott.zala.by:80/hls/CRCQFRNUFJ_HLS/variant.m3u8
+#EXTINF:-1,8 канал
+http://mfe.svc.ott.zala.by:80/hls/ZXUZZKCA6P_HLS/variant.m3u8
+#EXTINF:-1,ТНТ international
+http://mfe.svc.ott.zala.by:80/hls/MVNP5DA4U9_HLS/variant.m3u8
+#EXTINF:-1,Euronews
+http://mfe.svc.ott.zala.by:80/hls/C5P6YOXJZT_HLS/variant.m3u8
+#EXTINF:-1,Бел Бизес Ченел
+http://mfe.svc.ott.zala.by:80/hls/MCEQ4XBTHP_HLS/variant.m3u8
+#EXTINF:-1,Наш футбол
+http://mfe.svc.ott.zala.by:80/hls/HNBMWPATWZ_HLS/variant.m3u8
+#EXTINF:-1,Сетанта Спорт
+http://mfe.svc.ott.zala.by:80/hls/FWHTTL8YXU_HLS/variant.m3u8
+#EXTINF:-1,Сетанта Спорт +
+http://mfe.svc.ott.zala.by:80/hls/5T3FNFICQ4_HLS/variant.m3u8
+#EXTINF:-1,КХЛ
+http://mfe.svc.ott.zala.by:80/hls/36H3IDE2WF_HLS/variant.m3u8
+#EXTINF:-1,Русский Экстрим 
+http://mfe.svc.ott.zala.by:80/hls/6FPPFYT4RG_HLS/variant.m3u8
+#EXTINF:-1,RTG HD
+http://mfe.svc.ott.zala.by:80/hls/7NTSTCRXQW_HLS/variant.m3u8
+#EXTINF:-1,Travel+Adventure
+http://mfe.svc.ott.zala.by:80/hls/TRH5A5QCPD_HLS/variant.m3u8
+#EXTINF:-1,Oхотник и Рыболов HD
+http://mfe.svc.ott.zala.by:80/hls/4FDNBEDGFV_HLS/variant.m3u8
+#EXTINF:-1,Охота и Рыбалка
+http://mfe.svc.ott.zala.by:80/hls/VF5ELDF8AL_HLS/variant.m3u8
+#EXTINF:-1,Усадьба
+http://mfe.svc.ott.zala.by:80/hls/XMC4NSRVN9_HLS/variant.m3u8
+#EXTINF:-1,Кухня ТВ
+http://mfe.svc.ott.zala.by:80/hls/EPX2UEHLPK_HLS/variant.m3u8
+#EXTINF:-1,HD Life
+http://mfe.svc.ott.zala.by:80/hls/WGANFGLWPD_HLS/variant.m3u8
+#EXTINF:-1,Оружие
+http://mfe.svc.ott.zala.by:80/hls/EWEXU8FWAZ_HLS/variant.m3u8
+#EXTINF:-1,Драйв
+http://mfe.svc.ott.zala.by:80/hls/6UTCEG6ATO_HLS/variant.m3u8
+#EXTINF:-1,RTVI
+http://mfe.svc.ott.zala.by:80/hls/PN9VRQ5DGR_HLS/variant.m3u8
+#EXTINF:-1,Россия К
+http://mfe.svc.ott.zala.by:80/hls/9XJGVFFAWZ_HLS/variant.m3u8
+#EXTINF:-1,ТВ 3
+http://mfe.svc.ott.zala.by:80/hls/KLQQ9ECGSQ_HLS/variant.m3u8
+#EXTINF:-1,TV1000
+http://mfe.svc.ott.zala.by:80/hls/6WMZMUEWGN_HLS/variant.m3u8
+#EXTINF:-1,TV1000 Русское кино
+http://mfe.svc.ott.zala.by:80/hls/PWIKICZUYF_HLS/variant.m3u8
+#EXTINF:-1,TV1000 Action
+http://mfe.svc.ott.zala.by:80/hls/9X9NUEEKGW_HLS/variant.m3u8
+#EXTINF:-1,Viasat Explore
+http://mfe.svc.ott.zala.by:80/hls/JQQ83OBHTQ_HLS/variant.m3u8
+#EXTINF:-1,Viasat History
+http://mfe.svc.ott.zala.by:80/hls/CH_VIASATHISTORY_HLS/variant.m3u8
+#EXTINF:-1,Viasat Nature
+http://mfe.svc.ott.zala.by:80/hls/BN3FTDY3T8_HLS/variant.m3u8
+#EXTINF:-1,History
+http://mfe.svc.ott.zala.by:80/hls/CH_HISTORY_HLS/variant.m3u8
+#EXTINF:-1,FOX
+http://mfe.svc.ott.zala.by:80/hls/CH_FOX_HLS/variant.m3u8
+#EXTINF:-1,FOX Life
+http://mfe.svc.ott.zala.by:80/hls/CH_FOXL_HLS/variant.m3u8
+#EXTINF:-1,Nat Geo Wild
+http://mfe.svc.ott.zala.by:80/hls/ESCMSBZJ8X_HLS/variant.m3u8
+#EXTINF:-1,National Geographic
+http://mfe.svc.ott.zala.by:80/hls/CH_NATGEO_HLS/variant.m3u8
+#EXTINF:-1,Наше Новое Кино
+http://mfe.svc.ott.zala.by:80/hls/UVPWPN2KTN_HLS/variant.m3u8
+#EXTINF:-1,Еврокино
+http://mfe.svc.ott.zala.by:80/hls/JEDUS3FS7V_HLS/variant.m3u8
+#EXTINF:-1,КиноМикс
+http://mfe.svc.ott.zala.by:80/hls/VVG76MWUGX_HLS/variant.m3u8
+#EXTINF:-1,Кинохит
+http://mfe.svc.ott.zala.by:80/hls/HDOHSSZQCP_HLS/variant.m3u8
+#EXTINF:-1,Русский Иллюзион
+http://mfe.svc.ott.zala.by:80/hls/CMV4SNACFQ_HLS/variant.m3u8
+#EXTINF:-1,Иллюзион +
+http://mfe.svc.ott.zala.by:80/hls/V8TRED4CZL_HLS/variant.m3u8
+#EXTINF:-1,Мужское кино
+http://mfe.svc.ott.zala.by:80/hls/W7LNWHFGTB_HLS/variant.m3u8
+#EXTINF:-1,Sony SciFi
+http://mfe.svc.ott.zala.by:80/hls/EDVYQYGHF8_HLS/variant.m3u8
+#EXTINF:-1,Set HD
+http://mfe.svc.ott.zala.by:80/hls/VPRSUR2WN2_HLS/variant.m3u8
+#EXTINF:-1,Amedia 2
+http://mfe.svc.ott.zala.by:80/hls/H4DP5GK3AE_HLS/variant.m3u8
+#EXTINF:-1,Сарафан
+http://mfe.svc.ott.zala.by:80/hls/Y9GP8UFTZO_HLS/variant.m3u8
+#EXTINF:-1,Наука 2.0
+http://mfe.svc.ott.zala.by:80/hls/LWWBCKZAPZ_HLS/variant.m3u8
+#EXTINF:-1,Моя планета 
+http://mfe.svc.ott.zala.by:80/hls/FV47BRVQW4_HLS/variant.m3u8
+#EXTINF:-1,Техно 24
+http://mfe.svc.ott.zala.by:80/hls/ZIVFRAFR2I_HLS/variant.m3u8
+#EXTINF:-1,НСТ
+http://mfe.svc.ott.zala.by:80/hls/NEZVX5TVZX_HLS/variant.m3u8
+#EXTINF:-1,Мульт
+http://mfe.svc.ott.zala.by:80/hls/5MWF7XUWZI_HLS/variant.m3u8
+#EXTINF:-1,Cartoon Network
+http://mfe.svc.ott.zala.by:80/hls/CNVX7JRQJI_HLS/variant.m3u8
+#EXTINF:-1,Boomerang
+http://mfe.svc.ott.zala.by:80/hls/JSQ2S6VQTE_HLS/variant.m3u8
+#EXTINF:-1,Eureka
+http://mfe.svc.ott.zala.by:80/hls/KBHOKBYSSX_HLS/variant.m3u8
+#EXTINF:-1,Ностальгия
+http://mfe.svc.ott.zala.by:80/hls/SWPQU2UFKD_HLS/variant.m3u8
+#EXTINF:-1,RU TV
+http://mfe.svc.ott.zala.by:80/hls/XW6AGFSZJ8_HLS/variant.m3u8
+#EXTINF:-1,Шансон ТВ
+http://mfe.svc.ott.zala.by:80/hls/3K2MEWVSDF_HLS/variant.m3u8
+#EXTINF:-1,Europa Plus TV
+http://mfe.svc.ott.zala.by:80/hls/BHH8EKRXPO_HLS/variant.m3u8
+#EXTINF:-1,1 HD
+http://mfe.svc.ott.zala.by:80/hls/Q2WSPUHMME_HLS/variant.m3u8
+#EXTINF:-1,ТНТ Music
+http://mfe.svc.ott.zala.by:80/hls/BCJGRB3KAX_HLS/variant.m3u8
+#EXTINF:-1,Жара
+http://mfe.svc.ott.zala.by:80/hls/DXBSFZDTDG_HLS/variant.m3u8
+#EXTINF:-1,Детский Мир/Телеклуб
+http://mfe.svc.ott.zala.by:80/hls/9F67L3DGIF_HLS/variant.m3u8
+#EXTINF:-1,Детский
+http://mfe.svc.ott.zala.by:80/hls/29EYV8AKKV_HLS/variant.m3u8
+#EXTINF:-1,Мультимания
+http://mfe.svc.ott.zala.by:80/hls/FBYQ8KG5HM_HLS/variant.m3u8
+#EXTINF:-1,2?2
+http://mfe.svc.ott.zala.by:80/hls/EU9VTLDQCN_HLS/variant.m3u8
+#EXTINF:-1,Gulli
+http://mfe.svc.ott.zala.by:80/hls/7FFGONY2N8_HLS/variant.m3u8
+#EXTINF:-1,Tiji
+http://mfe.svc.ott.zala.by:80/hls/Q0HVVEIKSQ_HLS/variant.m3u8
+#EXTINF:-1,Русская Ночь
+http://mfe.svc.ott.zala.by:80/hls/F7UMYQMCGB_HLS/variant.m3u8
+#EXTINF:-1,Союз
+http://mfe.svc.ott.zala.by:80/hls/CH_SOYUZ_HLS/variant.m3u8
+#EXTINF:-1,GALAXY
+http://mfe.svc.ott.zala.by:80/hls/CH_GALAXY_HLS/variant.m3u8
+#EXTINF:-1,Совершенно Секретно
+http://mfe.svc.ott.zala.by:80/hls/CH_SOVERSHENNOSEKRETNO_HLS/variant.m3u8
+#EXTINF:-1,ЕДА ПРЕМИУМ HD
+http://mfe.svc.ott.zala.by:80/hls/BCPKKUK5NT_HLS/variant.m3u8
+#EXTINF:-1,СТС Kids
+http://mfe.svc.ott.zala.by:80/hls/CH_CTCKIDS_HLS/variant.m3u8
+#EXTINF:-1,Советские Мультфильмы
+http://mfe.svc.ott.zala.by:80/hls/CH_SOVMULT_HLS/variant.m3u8
+#EXTINF:-1,BOLT
+http://mfe.svc.ott.zala.by:80/hls/CH_BOLT_HLS/variant.m3u8
+#EXTINF:-1,STAR CINEMA
+http://mfe.svc.ott.zala.by:80/hls/CH_STARCINEMA_HLS/variant.m3u8
+#EXTINF:-1,STAR FAMILY
+http://mfe.svc.ott.zala.by:80/hls/CH_FAMILY_HLS/variant.m3u8
+#EXTINF:-1,Киносерия
+http://mfe.svc.ott.zala.by:80/hls/CH_KINOSERIA_HLS/variant.m3u8
+#EXTINF:-1,365 дней ТВ
+http://mfe.svc.ott.zala.by:80/hls/CH_365DNEY_HLS/variant.m3u8
+#EXTINF:-1,Ля-минор ТВ
+http://mfe.svc.ott.zala.by:80/hls/CH_LYAMINOR_HLS/variant.m3u8
+#EXTINF:-1,Satellite TV
+http://mfe.svc.ott.zala.by:80/hls/CH_MATCHPLANETA_HLS/variant.m3u8
+#EXTINF:-1,Кинопремьера HD
+http://mfe.svc.ott.zala.by:80/hls/CH_KINOPREMERA_HLS/variant.m3u8
+#EXTINF:-1,Родное Кино
+http://mfe.svc.ott.zala.by:80/hls/CH_NTVPLUSNASHEKINO_HLS/variant.m3u8
+#EXTINF:-1,Наше любимое кино
+http://mfe.svc.ott.zala.by:80/hls/CH_NASHEKINO_HLS/variant.m3u8
+#EXTINF:-1,Индийское кино
+http://mfe.svc.ott.zala.by:80/hls/CH_INDIYATV_HLS/variant.m3u8
+#EXTINF:-1,Amedia 1 HD
+http://mfe.svc.ott.zala.by:80/hls/CH_AMEDIA_HLS/variant.m3u8
+#EXTINF:-1,Amedia Hit HD
+http://mfe.svc.ott.zala.by:80/hls/CH_AMEDIAHIT_HLS/variant.m3u8
+#EXTINF:-1,Amedia Premium HD
+http://mfe.svc.ott.zala.by:80/hls/CH_AMEDIAPREMIUM_HLS/variant.m3u8
+#EXTINF:-1,Киносемья
+http://mfe.svc.ott.zala.by:80/hls/FEDXG8XPOR_HLS/variant.m3u8
+#EXTINF:-1,В гостях у сказки
+http://mfe.svc.ott.zala.by:80/hls/CH_VGOSTYAH_HLS/variant.m3u8
+#EXTINF:-1,Радость моя
+http://mfe.svc.ott.zala.by:80/hls/CH_RADOST_HLS/variant.m3u8
+#EXTINF:-1,Blue Hustler
+http://mfe.svc.ott.zala.by:80/hls/CH_BLUEHUSTLER_HLS/variant.m3u8
+#EXTINF:-1,Nuart TV
+http://mfe.svc.ott.zala.by:80/hls/CH_NYARTTV_HLS/variant.m3u8
+#EXTINF:-1,Телемагазин
+http://mfe.svc.ott.zala.by:80/hls/CH_TELEMAGAZIN_HLS/variant.m3u8
+#EXTINF:-1,Беларусь 4 Брест
+http://mfe.svc.ott.zala.by:80/hls/CH_BELARUS4BR_HLS/variant.m3u8
+#EXTINF:-1,Беларусь 4 Гродно
+http://mfe.svc.ott.zala.by:80/hls/CH_BELARUS4GR_HLS/variant.m3u8
+#EXTINF:-1,Беларусь 4 Витебск
+http://mfe.svc.ott.zala.by:80/hls/CH_BELARUS4VIT_HLS/variant.m3u8
+#EXTINF:-1,Беларусь 4 Могилев
+http://mfe.svc.ott.zala.by:80/hls/CH_BELARUS4MOG_HLS/variant.m3u8
+#EXTINF:-1,Беларусь 4 Гомель
+http://mfe.svc.ott.zala.by:80/hls/CH_BELARUS4GOM_HLS/variant.m3u8
+#EXTINF:-1,ЯСНАе TV
+http://mfe.svc.ott.zala.by:80/hls/CH_MINSKTV_HLS/variant.m3u8
+#EXTINF:-1,Советское Кино
+http://mfe.svc.ott.zala.by:80/hls/CH_SOVKINO_HLS/variant.m3u8
