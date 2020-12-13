@@ -425,7 +425,8 @@ http://persik.by/stream/1027/355959/10298.m3u8
 http://persik.by/stream/1027/355959/10299.m3u8
 #EXTINF:2.485,Беларусь 24
 http://persik.by/stream/1027/355959/10301.m3u8
-#EXTINF:1.75433,Беларусь РТΊhttp://persik.by/stream/1027/355959/10302.m3u8
+#EXTINF:1.75433,Беларусь РТΊ
+http://persik.by/stream/1027/355959/10302.m3u8
 #EXTINF:1.96267,НТВ Беларусь
 http://persik.by/stream/1027/355959/10303.m3u8
 #EXTINF:3.478,Мир
@@ -528,8 +529,10 @@ http://persik.by/stream/1027/355959/10529.m3u8
 http://persik.by/stream/1027/355959/10524.m3u8
 #EXTINF:1.48333,Шахматы Олег Соломаха
 http://persik.by/stream/1027/355959/10523.m3u8
-#EXTINF:2.432,МИΊhttp://persik.by/stream/1027/355959/176.m3u8
-#EXTINF:3.47967,Беларусь РТΊhttp://persik.by/stream/1027/355959/00700.m3u8
+#EXTINF:2.432,МИΊ
+http://persik.by/stream/1027/355959/176.m3u8
+#EXTINF:3.47967,Беларусь РТΊ
+http://persik.by/stream/1027/355959/00700.m3u8
 #EXTINF:1.68233,МАТЧ! Арена
 http://persik.by/stream/1027/355959/00724.m3u8
 #EXTINF:10.9925,Столичный магазин
